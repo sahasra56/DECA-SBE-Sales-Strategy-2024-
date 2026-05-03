@@ -1,5 +1,5 @@
 # The-Den---SBE-Sales-Strategy
-Analyzed POS transaction data in Python and SQL to identify underperforming SKUs, driving targeted restocking decisions that produced a **200% increase in inventory turnover**. Built scikit-learn demand forecasting models and Plotly dashboards to automate weekly sales reporting and replace manual tracking pipelines.
+In 2023–2024, I conducted a sales strategy project for my high school's DECA School-Based Enterprise student store. This repo documents the analysis, forecasting models, and Plotly dashboards I built — reconstructed from the original work with a synthetic dataset that mirrors the real POS data. I analyzed POS transaction data in Python and SQL to identify underperforming SKUs, driving targeted restocking decisions that produced a **200% increase in inventory turnover**. Built scikit-learn demand forecasting models and Plotly dashboards to automate weekly sales reporting and replace manual tracking pipelines.
  
 ---
  
