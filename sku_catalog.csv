@@ -1,0 +1,36 @@
+sku,name,category,price,inv_pre,inv_s1,inv_s2,base_demand
+ITS-STR,Strawberry Italian Soda,Italian Soda,3.5,4,14,14,4
+ITS-PAS,Passion Fruit Italian Soda,Italian Soda,3.5,3,12,12,3
+ITS-BLU,Blueberry Italian Soda,Italian Soda,3.5,3,10,10,2
+ITS-PEA,Peach Italian Soda,Italian Soda,3.5,3,10,10,2
+ITS-COC,Coconut Italian Soda,Italian Soda,3.5,2,8,8,1
+DRK-MAT,Matcha Lemonade,Custom Drink,4.25,4,12,12,3
+DRK-STR,Strawberry Milk,Custom Drink,3.75,4,10,10,2
+DRK-HOR,Horchata Cold Brew,Custom Drink,4.5,3,10,10,2
+DRK-CHI,Chia Lemonade,Custom Drink,3.75,2,8,8,1
+ENR-RBU,Red Bull Original,Energy Drink,3.75,12,18,20,4
+ENR-RBS,Red Bull Sugar Free,Energy Drink,3.75,10,14,16,3
+ENR-MTN,Monster Energy,Energy Drink,3.5,10,14,16,3
+ENR-CEL,Celsius,Energy Drink,3.25,10,16,18,3
+SFT-WAT,Water Bottle,Soft Drink,1.25,24,30,30,7
+SFT-COK,Coca-Cola,Soft Drink,1.75,16,20,20,5
+SFT-SPR,Sprite,Soft Drink,1.75,12,16,16,4
+SFT-DRP,Dr Pepper,Soft Drink,1.75,10,12,12,3
+SFT-LEM,Lemonade,Soft Drink,1.75,10,14,14,2
+SNK-CHC,Chocolate Chip Cookie,Baked Good,2.0,12,16,18,5
+SNK-BRW,Brownie,Baked Good,2.5,8,12,14,3
+SNK-SUG,Sugar Cookie,Baked Good,2.0,8,10,12,2
+SNK-PMP,Pumpkin Muffin,Baked Good,2.75,6,6,6,2
+SNK-RCK,Rice Krispie Treat,Baked Good,1.5,8,10,10,2
+SNK-LMB,Lemon Bar,Baked Good,2.25,0,0,10,3
+CND-GUM,Orbit Gum,Candy & Gum,1.5,14,16,18,3
+CND-RBB,Sour Patch Kids,Candy & Gum,2.0,10,14,18,3
+CND-SKT,Skittles,Candy & Gum,1.75,10,12,16,2
+CND-STB,Starburst,Candy & Gum,1.75,10,12,16,2
+CND-MNT,Altoids,Candy & Gum,2.0,8,10,10,2
+CND-GBR,Gummy Bears,Candy & Gum,2.0,0,0,14,3
+CHP-LAY,Lays Classic,Chips,1.5,14,16,18,4
+CHP-DRT,Doritos Nacho,Chips,1.5,12,14,18,4
+CHP-TAK,Takis Fuego,Chips,1.75,0,10,18,4
+CHP-PRT,Pretzels,Chips,1.25,8,10,10,2
+CHP-POP,Popcorn,Chips,1.25,8,10,12,2

@@ -1,0 +1,1181 @@
+week,sku,category,phase,units_sold,revenue
+2023-08-21,CHP-DRT,Chips,baseline,17,25.5
+2023-08-21,CHP-LAY,Chips,baseline,12,18.0
+2023-08-21,CHP-POP,Chips,baseline,5,6.25
+2023-08-21,CHP-PRT,Chips,baseline,4,5.0
+2023-08-21,CND-GUM,Candy & Gum,baseline,14,21.0
+2023-08-21,CND-MNT,Candy & Gum,baseline,4,8.0
+2023-08-21,CND-RBB,Candy & Gum,baseline,15,30.0
+2023-08-21,CND-SKT,Candy & Gum,baseline,5,8.75
+2023-08-21,CND-STB,Candy & Gum,baseline,7,12.25
+2023-08-21,DRK-CHI,Custom Drink,baseline,3,11.25
+2023-08-21,DRK-MAT,Custom Drink,baseline,10,42.5
+2023-08-21,DRK-STR,Custom Drink,baseline,6,22.5
+2023-08-21,ENR-CEL,Energy Drink,baseline,14,45.5
+2023-08-21,ENR-MTN,Energy Drink,baseline,8,28.0
+2023-08-21,ENR-RBS,Energy Drink,baseline,12,45.0
+2023-08-21,ENR-RBU,Energy Drink,baseline,20,75.0
+2023-08-21,ITS-BLU,Italian Soda,baseline,6,21.0
+2023-08-21,ITS-COC,Italian Soda,baseline,1,3.5
+2023-08-21,ITS-PAS,Italian Soda,baseline,7,24.5
+2023-08-21,ITS-PEA,Italian Soda,baseline,4,14.0
+2023-08-21,ITS-STR,Italian Soda,baseline,17,59.5
+2023-08-21,SFT-COK,Soft Drink,baseline,20,35.0
+2023-08-21,SFT-DRP,Soft Drink,baseline,12,21.0
+2023-08-21,SFT-LEM,Soft Drink,baseline,8,14.0
+2023-08-21,SFT-SPR,Soft Drink,baseline,17,29.75
+2023-08-21,SFT-WAT,Soft Drink,baseline,41,51.25
+2023-08-21,SNK-BRW,Baked Good,baseline,8,20.0
+2023-08-21,SNK-CHC,Baked Good,baseline,18,36.0
+2023-08-21,SNK-PMP,Baked Good,baseline,7,19.25
+2023-08-21,SNK-RCK,Baked Good,baseline,3,4.5
+2023-08-21,SNK-SUG,Baked Good,baseline,9,18.0
+2023-08-28,CHP-DRT,Chips,baseline,21,31.5
+2023-08-28,CHP-LAY,Chips,baseline,17,25.5
+2023-08-28,CHP-POP,Chips,baseline,7,8.75
+2023-08-28,CHP-PRT,Chips,baseline,8,10.0
+2023-08-28,CND-GUM,Candy & Gum,baseline,14,21.0
+2023-08-28,CND-MNT,Candy & Gum,baseline,3,6.0
+2023-08-28,CND-RBB,Candy & Gum,baseline,14,28.0
+2023-08-28,CND-SKT,Candy & Gum,baseline,5,8.75
+2023-08-28,CND-STB,Candy & Gum,baseline,2,3.5
+2023-08-28,DRK-CHI,Custom Drink,baseline,1,3.75
+2023-08-28,DRK-MAT,Custom Drink,baseline,14,59.5
+2023-08-28,DRK-STR,Custom Drink,baseline,9,33.75
+2023-08-28,ENR-CEL,Energy Drink,baseline,12,39.0
+2023-08-28,ENR-MTN,Energy Drink,baseline,11,38.5
+2023-08-28,ENR-RBS,Energy Drink,baseline,12,45.0
+2023-08-28,ENR-RBU,Energy Drink,baseline,25,93.75
+2023-08-28,ITS-BLU,Italian Soda,baseline,5,17.5
+2023-08-28,ITS-COC,Italian Soda,baseline,2,7.0
+2023-08-28,ITS-PAS,Italian Soda,baseline,9,31.5
+2023-08-28,ITS-PEA,Italian Soda,baseline,3,10.5
+2023-08-28,ITS-STR,Italian Soda,baseline,15,52.5
+2023-08-28,SFT-COK,Soft Drink,baseline,30,52.5
+2023-08-28,SFT-DRP,Soft Drink,baseline,15,26.25
+2023-08-28,SFT-LEM,Soft Drink,baseline,8,14.0
+2023-08-28,SFT-SPR,Soft Drink,baseline,13,22.75
+2023-08-28,SFT-WAT,Soft Drink,baseline,61,76.25
+2023-08-28,SNK-BRW,Baked Good,baseline,14,35.0
+2023-08-28,SNK-CHC,Baked Good,baseline,21,42.0
+2023-08-28,SNK-PMP,Baked Good,baseline,3,8.25
+2023-08-28,SNK-RCK,Baked Good,baseline,4,6.0
+2023-08-28,SNK-SUG,Baked Good,baseline,10,20.0
+2023-09-04,CHP-DRT,Chips,baseline,18,27.0
+2023-09-04,CHP-LAY,Chips,baseline,17,25.5
+2023-09-04,CHP-POP,Chips,baseline,8,10.0
+2023-09-04,CHP-PRT,Chips,baseline,10,12.5
+2023-09-04,CND-GUM,Candy & Gum,baseline,17,25.5
+2023-09-04,CND-MNT,Candy & Gum,baseline,6,12.0
+2023-09-04,CND-RBB,Candy & Gum,baseline,17,34.0
+2023-09-04,CND-SKT,Candy & Gum,baseline,12,21.0
+2023-09-04,CND-STB,Candy & Gum,baseline,10,17.5
+2023-09-04,DRK-CHI,Custom Drink,baseline,2,7.5
+2023-09-04,DRK-MAT,Custom Drink,baseline,11,46.75
+2023-09-04,DRK-STR,Custom Drink,baseline,6,22.5
+2023-09-04,ENR-CEL,Energy Drink,baseline,8,26.0
+2023-09-04,ENR-MTN,Energy Drink,baseline,12,42.0
+2023-09-04,ENR-RBS,Energy Drink,baseline,11,41.25
+2023-09-04,ENR-RBU,Energy Drink,baseline,22,82.5
+2023-09-04,ITS-BLU,Italian Soda,baseline,8,28.0
+2023-09-04,ITS-COC,Italian Soda,baseline,2,7.0
+2023-09-04,ITS-PAS,Italian Soda,baseline,11,38.5
+2023-09-04,ITS-PEA,Italian Soda,baseline,7,24.5
+2023-09-04,ITS-STR,Italian Soda,baseline,11,38.5
+2023-09-04,SFT-COK,Soft Drink,baseline,26,45.5
+2023-09-04,SFT-DRP,Soft Drink,baseline,9,15.75
+2023-09-04,SFT-LEM,Soft Drink,baseline,5,8.75
+2023-09-04,SFT-SPR,Soft Drink,baseline,17,29.75
+2023-09-04,SFT-WAT,Soft Drink,baseline,57,71.25
+2023-09-04,SNK-BRW,Baked Good,baseline,19,47.5
+2023-09-04,SNK-CHC,Baked Good,baseline,36,72.0
+2023-09-04,SNK-PMP,Baked Good,baseline,4,11.0
+2023-09-04,SNK-RCK,Baked Good,baseline,7,10.5
+2023-09-04,SNK-SUG,Baked Good,baseline,9,18.0
+2023-09-11,CHP-DRT,Chips,baseline,17,25.5
+2023-09-11,CHP-LAY,Chips,baseline,14,21.0
+2023-09-11,CHP-POP,Chips,baseline,4,5.0
+2023-09-11,CHP-PRT,Chips,baseline,7,8.75
+2023-09-11,CND-GUM,Candy & Gum,baseline,16,24.0
+2023-09-11,CND-MNT,Candy & Gum,baseline,6,12.0
+2023-09-11,CND-RBB,Candy & Gum,baseline,13,26.0
+2023-09-11,CND-SKT,Candy & Gum,baseline,5,8.75
+2023-09-11,CND-STB,Candy & Gum,baseline,1,1.75
+2023-09-11,DRK-CHI,Custom Drink,baseline,1,3.75
+2023-09-11,DRK-MAT,Custom Drink,baseline,14,59.5
+2023-09-11,DRK-STR,Custom Drink,baseline,8,30.0
+2023-09-11,ENR-CEL,Energy Drink,baseline,15,48.75
+2023-09-11,ENR-MTN,Energy Drink,baseline,13,45.5
+2023-09-11,ENR-RBS,Energy Drink,baseline,12,45.0
+2023-09-11,ENR-RBU,Energy Drink,baseline,16,60.0
+2023-09-11,ITS-BLU,Italian Soda,baseline,6,21.0
+2023-09-11,ITS-COC,Italian Soda,baseline,1,3.5
+2023-09-11,ITS-PAS,Italian Soda,baseline,11,38.5
+2023-09-11,ITS-PEA,Italian Soda,baseline,11,38.5
+2023-09-11,ITS-STR,Italian Soda,baseline,16,56.0
+2023-09-11,SFT-COK,Soft Drink,baseline,21,36.75
+2023-09-11,SFT-DRP,Soft Drink,baseline,11,19.25
+2023-09-11,SFT-LEM,Soft Drink,baseline,12,21.0
+2023-09-11,SFT-SPR,Soft Drink,baseline,20,35.0
+2023-09-11,SFT-WAT,Soft Drink,baseline,55,68.75
+2023-09-11,SNK-BRW,Baked Good,baseline,18,45.0
+2023-09-11,SNK-CHC,Baked Good,baseline,23,46.0
+2023-09-11,SNK-PMP,Baked Good,baseline,10,27.5
+2023-09-11,SNK-RCK,Baked Good,baseline,7,10.5
+2023-09-11,SNK-SUG,Baked Good,baseline,5,10.0
+2023-09-18,CHP-DRT,Chips,baseline,15,22.5
+2023-09-18,CHP-LAY,Chips,baseline,21,31.5
+2023-09-18,CHP-POP,Chips,baseline,11,13.75
+2023-09-18,CHP-PRT,Chips,baseline,13,16.25
+2023-09-18,CND-GUM,Candy & Gum,baseline,14,21.0
+2023-09-18,CND-MNT,Candy & Gum,baseline,6,12.0
+2023-09-18,CND-RBB,Candy & Gum,baseline,9,18.0
+2023-09-18,CND-SKT,Candy & Gum,baseline,5,8.75
+2023-09-18,CND-STB,Candy & Gum,baseline,6,10.5
+2023-09-18,DRK-CHI,Custom Drink,baseline,4,15.0
+2023-09-18,DRK-MAT,Custom Drink,baseline,7,29.75
+2023-09-18,DRK-STR,Custom Drink,baseline,7,26.25
+2023-09-18,ENR-CEL,Energy Drink,baseline,13,42.25
+2023-09-18,ENR-MTN,Energy Drink,baseline,15,52.5
+2023-09-18,ENR-RBS,Energy Drink,baseline,17,63.75
+2023-09-18,ENR-RBU,Energy Drink,baseline,23,86.25
+2023-09-18,ITS-BLU,Italian Soda,baseline,7,24.5
+2023-09-18,ITS-COC,Italian Soda,baseline,3,10.5
+2023-09-18,ITS-PAS,Italian Soda,baseline,9,31.5
+2023-09-18,ITS-PEA,Italian Soda,baseline,9,31.5
+2023-09-18,ITS-STR,Italian Soda,baseline,8,28.0
+2023-09-18,SFT-COK,Soft Drink,baseline,24,42.0
+2023-09-18,SFT-DRP,Soft Drink,baseline,12,21.0
+2023-09-18,SFT-LEM,Soft Drink,baseline,12,21.0
+2023-09-18,SFT-SPR,Soft Drink,baseline,14,24.5
+2023-09-18,SFT-WAT,Soft Drink,baseline,35,43.75
+2023-09-18,SNK-BRW,Baked Good,baseline,7,17.5
+2023-09-18,SNK-CHC,Baked Good,baseline,20,40.0
+2023-09-18,SNK-PMP,Baked Good,baseline,10,27.5
+2023-09-18,SNK-RCK,Baked Good,baseline,6,9.0
+2023-09-18,SNK-SUG,Baked Good,baseline,5,10.0
+2023-09-25,CHP-DRT,Chips,baseline,22,33.0
+2023-09-25,CHP-LAY,Chips,baseline,21,31.5
+2023-09-25,CHP-POP,Chips,baseline,8,10.0
+2023-09-25,CHP-PRT,Chips,baseline,11,13.75
+2023-09-25,CND-GUM,Candy & Gum,baseline,18,27.0
+2023-09-25,CND-MNT,Candy & Gum,baseline,5,10.0
+2023-09-25,CND-RBB,Candy & Gum,baseline,15,30.0
+2023-09-25,CND-SKT,Candy & Gum,baseline,11,19.25
+2023-09-25,CND-STB,Candy & Gum,baseline,5,8.75
+2023-09-25,DRK-CHI,Custom Drink,baseline,4,15.0
+2023-09-25,DRK-MAT,Custom Drink,baseline,11,46.75
+2023-09-25,DRK-STR,Custom Drink,baseline,10,37.5
+2023-09-25,ENR-CEL,Energy Drink,baseline,11,35.75
+2023-09-25,ENR-MTN,Energy Drink,baseline,14,49.0
+2023-09-25,ENR-RBS,Energy Drink,baseline,22,82.5
+2023-09-25,ENR-RBU,Energy Drink,baseline,22,82.5
+2023-09-25,ITS-BLU,Italian Soda,baseline,5,17.5
+2023-09-25,ITS-COC,Italian Soda,baseline,2,7.0
+2023-09-25,ITS-PAS,Italian Soda,baseline,11,38.5
+2023-09-25,ITS-PEA,Italian Soda,baseline,8,28.0
+2023-09-25,ITS-STR,Italian Soda,baseline,17,59.5
+2023-09-25,SFT-COK,Soft Drink,baseline,25,43.75
+2023-09-25,SFT-DRP,Soft Drink,baseline,14,24.5
+2023-09-25,SFT-LEM,Soft Drink,baseline,9,15.75
+2023-09-25,SFT-SPR,Soft Drink,baseline,21,36.75
+2023-09-25,SFT-WAT,Soft Drink,baseline,35,43.75
+2023-09-25,SNK-BRW,Baked Good,baseline,10,25.0
+2023-09-25,SNK-CHC,Baked Good,baseline,22,44.0
+2023-09-25,SNK-PMP,Baked Good,baseline,6,16.5
+2023-09-25,SNK-RCK,Baked Good,baseline,6,9.0
+2023-09-25,SNK-SUG,Baked Good,baseline,4,8.0
+2023-10-02,CHP-DRT,Chips,baseline,19,28.5
+2023-10-02,CHP-LAY,Chips,baseline,13,19.5
+2023-10-02,CHP-POP,Chips,baseline,12,15.0
+2023-10-02,CHP-PRT,Chips,baseline,7,8.75
+2023-10-02,CND-GUM,Candy & Gum,baseline,11,16.5
+2023-10-02,CND-MNT,Candy & Gum,baseline,4,8.0
+2023-10-02,CND-RBB,Candy & Gum,baseline,13,26.0
+2023-10-02,CND-SKT,Candy & Gum,baseline,8,14.0
+2023-10-02,CND-STB,Candy & Gum,baseline,6,10.5
+2023-10-02,DRK-CHI,Custom Drink,baseline,2,7.5
+2023-10-02,DRK-MAT,Custom Drink,baseline,7,29.75
+2023-10-02,DRK-STR,Custom Drink,baseline,4,15.0
+2023-10-02,ENR-CEL,Energy Drink,baseline,6,19.5
+2023-10-02,ENR-MTN,Energy Drink,baseline,14,49.0
+2023-10-02,ENR-RBS,Energy Drink,baseline,13,48.75
+2023-10-02,ENR-RBU,Energy Drink,baseline,18,67.5
+2023-10-02,ITS-BLU,Italian Soda,baseline,7,24.5
+2023-10-02,ITS-PAS,Italian Soda,baseline,8,28.0
+2023-10-02,ITS-PEA,Italian Soda,baseline,8,28.0
+2023-10-02,ITS-STR,Italian Soda,baseline,7,24.5
+2023-10-02,SFT-COK,Soft Drink,baseline,25,43.75
+2023-10-02,SFT-DRP,Soft Drink,baseline,15,26.25
+2023-10-02,SFT-LEM,Soft Drink,baseline,6,10.5
+2023-10-02,SFT-SPR,Soft Drink,baseline,19,33.25
+2023-10-02,SFT-WAT,Soft Drink,baseline,26,32.5
+2023-10-02,SNK-BRW,Baked Good,baseline,8,20.0
+2023-10-02,SNK-CHC,Baked Good,baseline,14,28.0
+2023-10-02,SNK-PMP,Baked Good,baseline,6,16.5
+2023-10-02,SNK-RCK,Baked Good,baseline,8,12.0
+2023-10-02,SNK-SUG,Baked Good,baseline,6,12.0
+2023-10-09,CHP-DRT,Chips,baseline,20,30.0
+2023-10-09,CHP-LAY,Chips,baseline,14,21.0
+2023-10-09,CHP-POP,Chips,baseline,8,10.0
+2023-10-09,CHP-PRT,Chips,baseline,8,10.0
+2023-10-09,CND-GUM,Candy & Gum,baseline,17,25.5
+2023-10-09,CND-MNT,Candy & Gum,baseline,8,16.0
+2023-10-09,CND-RBB,Candy & Gum,baseline,14,28.0
+2023-10-09,CND-SKT,Candy & Gum,baseline,17,29.75
+2023-10-09,CND-STB,Candy & Gum,baseline,11,19.25
+2023-10-09,DRK-CHI,Custom Drink,baseline,4,15.0
+2023-10-09,DRK-MAT,Custom Drink,baseline,7,29.75
+2023-10-09,DRK-STR,Custom Drink,baseline,8,30.0
+2023-10-09,ENR-CEL,Energy Drink,baseline,17,55.25
+2023-10-09,ENR-MTN,Energy Drink,baseline,12,42.0
+2023-10-09,ENR-RBS,Energy Drink,baseline,12,45.0
+2023-10-09,ENR-RBU,Energy Drink,baseline,13,48.75
+2023-10-09,ITS-BLU,Italian Soda,baseline,5,17.5
+2023-10-09,ITS-COC,Italian Soda,baseline,3,10.5
+2023-10-09,ITS-PAS,Italian Soda,baseline,8,28.0
+2023-10-09,ITS-PEA,Italian Soda,baseline,8,28.0
+2023-10-09,ITS-STR,Italian Soda,baseline,13,45.5
+2023-10-09,SFT-COK,Soft Drink,baseline,17,29.75
+2023-10-09,SFT-DRP,Soft Drink,baseline,6,10.5
+2023-10-09,SFT-LEM,Soft Drink,baseline,8,14.0
+2023-10-09,SFT-SPR,Soft Drink,baseline,14,24.5
+2023-10-09,SFT-WAT,Soft Drink,baseline,28,35.0
+2023-10-09,SNK-BRW,Baked Good,baseline,13,32.5
+2023-10-09,SNK-CHC,Baked Good,baseline,18,36.0
+2023-10-09,SNK-PMP,Baked Good,baseline,15,41.25
+2023-10-09,SNK-RCK,Baked Good,baseline,11,16.5
+2023-10-09,SNK-SUG,Baked Good,baseline,4,8.0
+2023-10-16,CHP-DRT,Chips,baseline,19,28.5
+2023-10-16,CHP-LAY,Chips,baseline,19,28.5
+2023-10-16,CHP-POP,Chips,baseline,9,11.25
+2023-10-16,CHP-PRT,Chips,baseline,13,16.25
+2023-10-16,CND-GUM,Candy & Gum,baseline,19,28.5
+2023-10-16,CND-MNT,Candy & Gum,baseline,8,16.0
+2023-10-16,CND-RBB,Candy & Gum,baseline,6,12.0
+2023-10-16,CND-SKT,Candy & Gum,baseline,10,17.5
+2023-10-16,CND-STB,Candy & Gum,baseline,10,17.5
+2023-10-16,DRK-CHI,Custom Drink,baseline,2,7.5
+2023-10-16,DRK-MAT,Custom Drink,baseline,14,59.5
+2023-10-16,DRK-STR,Custom Drink,baseline,5,18.75
+2023-10-16,ENR-CEL,Energy Drink,baseline,14,45.5
+2023-10-16,ENR-MTN,Energy Drink,baseline,20,70.0
+2023-10-16,ENR-RBS,Energy Drink,baseline,16,60.0
+2023-10-16,ENR-RBU,Energy Drink,baseline,18,67.5
+2023-10-16,ITS-BLU,Italian Soda,baseline,7,24.5
+2023-10-16,ITS-COC,Italian Soda,baseline,2,7.0
+2023-10-16,ITS-PAS,Italian Soda,baseline,11,38.5
+2023-10-16,ITS-PEA,Italian Soda,baseline,8,28.0
+2023-10-16,ITS-STR,Italian Soda,baseline,12,42.0
+2023-10-16,SFT-COK,Soft Drink,baseline,30,52.5
+2023-10-16,SFT-DRP,Soft Drink,baseline,15,26.25
+2023-10-16,SFT-LEM,Soft Drink,baseline,8,14.0
+2023-10-16,SFT-SPR,Soft Drink,baseline,16,28.0
+2023-10-16,SFT-WAT,Soft Drink,baseline,44,55.0
+2023-10-16,SNK-BRW,Baked Good,baseline,14,35.0
+2023-10-16,SNK-CHC,Baked Good,baseline,30,60.0
+2023-10-16,SNK-PMP,Baked Good,baseline,14,38.5
+2023-10-16,SNK-RCK,Baked Good,baseline,7,10.5
+2023-10-16,SNK-SUG,Baked Good,baseline,10,20.0
+2023-10-23,CHP-DRT,Chips,analysis,12,18.0
+2023-10-23,CHP-LAY,Chips,analysis,17,25.5
+2023-10-23,CHP-POP,Chips,analysis,7,8.75
+2023-10-23,CHP-PRT,Chips,analysis,7,8.75
+2023-10-23,CND-GUM,Candy & Gum,analysis,11,16.5
+2023-10-23,CND-MNT,Candy & Gum,analysis,8,16.0
+2023-10-23,CND-RBB,Candy & Gum,analysis,10,20.0
+2023-10-23,CND-SKT,Candy & Gum,analysis,9,15.75
+2023-10-23,CND-STB,Candy & Gum,analysis,6,10.5
+2023-10-23,DRK-MAT,Custom Drink,analysis,9,38.25
+2023-10-23,DRK-STR,Custom Drink,analysis,5,18.75
+2023-10-23,ENR-CEL,Energy Drink,analysis,10,32.5
+2023-10-23,ENR-MTN,Energy Drink,analysis,18,63.0
+2023-10-23,ENR-RBS,Energy Drink,analysis,8,30.0
+2023-10-23,ENR-RBU,Energy Drink,analysis,22,82.5
+2023-10-23,ITS-BLU,Italian Soda,analysis,7,24.5
+2023-10-23,ITS-COC,Italian Soda,analysis,2,7.0
+2023-10-23,ITS-PAS,Italian Soda,analysis,10,35.0
+2023-10-23,ITS-PEA,Italian Soda,analysis,4,14.0
+2023-10-23,ITS-STR,Italian Soda,analysis,18,63.0
+2023-10-23,SFT-COK,Soft Drink,analysis,21,36.75
+2023-10-23,SFT-DRP,Soft Drink,analysis,7,12.25
+2023-10-23,SFT-LEM,Soft Drink,analysis,7,12.25
+2023-10-23,SFT-SPR,Soft Drink,analysis,20,35.0
+2023-10-23,SFT-WAT,Soft Drink,analysis,22,27.5
+2023-10-23,SNK-BRW,Baked Good,analysis,13,32.5
+2023-10-23,SNK-CHC,Baked Good,analysis,19,38.0
+2023-10-23,SNK-PMP,Baked Good,analysis,13,35.75
+2023-10-23,SNK-RCK,Baked Good,analysis,8,12.0
+2023-10-23,SNK-SUG,Baked Good,analysis,8,16.0
+2023-10-30,CHP-DRT,Chips,analysis,17,25.5
+2023-10-30,CHP-LAY,Chips,analysis,15,22.5
+2023-10-30,CHP-POP,Chips,analysis,11,13.75
+2023-10-30,CHP-PRT,Chips,analysis,4,5.0
+2023-10-30,CND-GUM,Candy & Gum,analysis,10,15.0
+2023-10-30,CND-MNT,Candy & Gum,analysis,4,8.0
+2023-10-30,CND-RBB,Candy & Gum,analysis,18,36.0
+2023-10-30,CND-SKT,Candy & Gum,analysis,9,15.75
+2023-10-30,CND-STB,Candy & Gum,analysis,7,12.25
+2023-10-30,DRK-CHI,Custom Drink,analysis,3,11.25
+2023-10-30,DRK-MAT,Custom Drink,analysis,13,55.25
+2023-10-30,DRK-STR,Custom Drink,analysis,5,18.75
+2023-10-30,ENR-CEL,Energy Drink,analysis,9,29.25
+2023-10-30,ENR-MTN,Energy Drink,analysis,14,49.0
+2023-10-30,ENR-RBS,Energy Drink,analysis,9,33.75
+2023-10-30,ENR-RBU,Energy Drink,analysis,17,63.75
+2023-10-30,ITS-BLU,Italian Soda,analysis,7,24.5
+2023-10-30,ITS-COC,Italian Soda,analysis,1,3.5
+2023-10-30,ITS-PAS,Italian Soda,analysis,11,38.5
+2023-10-30,ITS-PEA,Italian Soda,analysis,5,17.5
+2023-10-30,ITS-STR,Italian Soda,analysis,10,35.0
+2023-10-30,SFT-COK,Soft Drink,analysis,25,43.75
+2023-10-30,SFT-DRP,Soft Drink,analysis,19,33.25
+2023-10-30,SFT-LEM,Soft Drink,analysis,7,12.25
+2023-10-30,SFT-SPR,Soft Drink,analysis,17,29.75
+2023-10-30,SFT-WAT,Soft Drink,analysis,33,41.25
+2023-10-30,SNK-BRW,Baked Good,analysis,11,27.5
+2023-10-30,SNK-CHC,Baked Good,analysis,26,52.0
+2023-10-30,SNK-PMP,Baked Good,analysis,5,13.75
+2023-10-30,SNK-RCK,Baked Good,analysis,8,12.0
+2023-10-30,SNK-SUG,Baked Good,analysis,8,16.0
+2023-11-06,CHP-DRT,Chips,analysis,16,24.0
+2023-11-06,CHP-LAY,Chips,analysis,19,28.5
+2023-11-06,CHP-POP,Chips,analysis,8,10.0
+2023-11-06,CHP-PRT,Chips,analysis,5,6.25
+2023-11-06,CND-GUM,Candy & Gum,analysis,12,18.0
+2023-11-06,CND-MNT,Candy & Gum,analysis,10,20.0
+2023-11-06,CND-RBB,Candy & Gum,analysis,11,22.0
+2023-11-06,CND-SKT,Candy & Gum,analysis,5,8.75
+2023-11-06,CND-STB,Candy & Gum,analysis,12,21.0
+2023-11-06,DRK-CHI,Custom Drink,analysis,1,3.75
+2023-11-06,DRK-HOR,Custom Drink,analysis,8,36.0
+2023-11-06,DRK-MAT,Custom Drink,analysis,13,55.25
+2023-11-06,DRK-STR,Custom Drink,analysis,3,11.25
+2023-11-06,ENR-CEL,Energy Drink,analysis,12,39.0
+2023-11-06,ENR-MTN,Energy Drink,analysis,7,24.5
+2023-11-06,ENR-RBS,Energy Drink,analysis,14,52.5
+2023-11-06,ENR-RBU,Energy Drink,analysis,22,82.5
+2023-11-06,ITS-BLU,Italian Soda,analysis,10,35.0
+2023-11-06,ITS-COC,Italian Soda,analysis,1,3.5
+2023-11-06,ITS-PAS,Italian Soda,analysis,7,24.5
+2023-11-06,ITS-PEA,Italian Soda,analysis,8,28.0
+2023-11-06,ITS-STR,Italian Soda,analysis,11,38.5
+2023-11-06,SFT-COK,Soft Drink,analysis,17,29.75
+2023-11-06,SFT-DRP,Soft Drink,analysis,16,28.0
+2023-11-06,SFT-LEM,Soft Drink,analysis,6,10.5
+2023-11-06,SFT-SPR,Soft Drink,analysis,15,26.25
+2023-11-06,SFT-WAT,Soft Drink,analysis,38,47.5
+2023-11-06,SNK-BRW,Baked Good,analysis,5,12.5
+2023-11-06,SNK-CHC,Baked Good,analysis,12,24.0
+2023-11-06,SNK-PMP,Baked Good,analysis,6,16.5
+2023-11-06,SNK-RCK,Baked Good,analysis,12,18.0
+2023-11-06,SNK-SUG,Baked Good,analysis,7,14.0
+2023-11-13,CHP-DRT,Chips,analysis,20,30.0
+2023-11-13,CHP-LAY,Chips,analysis,15,22.5
+2023-11-13,CHP-POP,Chips,analysis,4,5.0
+2023-11-13,CHP-PRT,Chips,analysis,10,12.5
+2023-11-13,CND-GUM,Candy & Gum,analysis,12,18.0
+2023-11-13,CND-MNT,Candy & Gum,analysis,10,20.0
+2023-11-13,CND-RBB,Candy & Gum,analysis,8,16.0
+2023-11-13,CND-SKT,Candy & Gum,analysis,5,8.75
+2023-11-13,CND-STB,Candy & Gum,analysis,3,5.25
+2023-11-13,DRK-HOR,Custom Drink,analysis,9,40.5
+2023-11-13,DRK-MAT,Custom Drink,analysis,11,46.75
+2023-11-13,DRK-STR,Custom Drink,analysis,4,15.0
+2023-11-13,ENR-CEL,Energy Drink,analysis,12,39.0
+2023-11-13,ENR-MTN,Energy Drink,analysis,12,42.0
+2023-11-13,ENR-RBS,Energy Drink,analysis,13,48.75
+2023-11-13,ENR-RBU,Energy Drink,analysis,18,67.5
+2023-11-13,ITS-BLU,Italian Soda,analysis,3,10.5
+2023-11-13,ITS-PAS,Italian Soda,analysis,12,42.0
+2023-11-13,ITS-PEA,Italian Soda,analysis,11,38.5
+2023-11-13,ITS-STR,Italian Soda,analysis,10,35.0
+2023-11-13,SFT-COK,Soft Drink,analysis,21,36.75
+2023-11-13,SFT-DRP,Soft Drink,analysis,13,22.75
+2023-11-13,SFT-LEM,Soft Drink,analysis,4,7.0
+2023-11-13,SFT-SPR,Soft Drink,analysis,20,35.0
+2023-11-13,SFT-WAT,Soft Drink,analysis,34,42.5
+2023-11-13,SNK-BRW,Baked Good,analysis,11,27.5
+2023-11-13,SNK-CHC,Baked Good,analysis,25,50.0
+2023-11-13,SNK-PMP,Baked Good,analysis,8,22.0
+2023-11-13,SNK-RCK,Baked Good,analysis,11,16.5
+2023-11-13,SNK-SUG,Baked Good,analysis,9,18.0
+2023-11-27,CHP-DRT,Chips,analysis,19,28.5
+2023-11-27,CHP-LAY,Chips,analysis,15,22.5
+2023-11-27,CHP-POP,Chips,analysis,11,13.75
+2023-11-27,CHP-PRT,Chips,analysis,7,8.75
+2023-11-27,CND-GUM,Candy & Gum,analysis,6,9.0
+2023-11-27,CND-MNT,Candy & Gum,analysis,12,24.0
+2023-11-27,CND-RBB,Candy & Gum,analysis,13,26.0
+2023-11-27,CND-SKT,Candy & Gum,analysis,17,29.75
+2023-11-27,CND-STB,Candy & Gum,analysis,12,21.0
+2023-11-27,DRK-HOR,Custom Drink,analysis,4,18.0
+2023-11-27,DRK-MAT,Custom Drink,analysis,11,46.75
+2023-11-27,DRK-STR,Custom Drink,analysis,13,48.75
+2023-11-27,ENR-CEL,Energy Drink,analysis,16,52.0
+2023-11-27,ENR-MTN,Energy Drink,analysis,14,49.0
+2023-11-27,ENR-RBS,Energy Drink,analysis,21,78.75
+2023-11-27,ENR-RBU,Energy Drink,analysis,19,71.25
+2023-11-27,ITS-BLU,Italian Soda,analysis,9,31.5
+2023-11-27,ITS-COC,Italian Soda,analysis,2,7.0
+2023-11-27,ITS-PAS,Italian Soda,analysis,15,52.5
+2023-11-27,ITS-PEA,Italian Soda,analysis,6,21.0
+2023-11-27,ITS-STR,Italian Soda,analysis,13,45.5
+2023-11-27,SFT-COK,Soft Drink,analysis,29,50.75
+2023-11-27,SFT-DRP,Soft Drink,analysis,13,22.75
+2023-11-27,SFT-LEM,Soft Drink,analysis,8,14.0
+2023-11-27,SFT-SPR,Soft Drink,analysis,23,40.25
+2023-11-27,SFT-WAT,Soft Drink,analysis,30,37.5
+2023-11-27,SNK-BRW,Baked Good,analysis,11,27.5
+2023-11-27,SNK-CHC,Baked Good,analysis,31,62.0
+2023-11-27,SNK-RCK,Baked Good,analysis,9,13.5
+2023-11-27,SNK-SUG,Baked Good,analysis,10,20.0
+2023-12-04,CHP-DRT,Chips,analysis,18,27.0
+2023-12-04,CHP-LAY,Chips,analysis,14,21.0
+2023-12-04,CHP-POP,Chips,analysis,5,6.25
+2023-12-04,CHP-PRT,Chips,analysis,7,8.75
+2023-12-04,CND-GUM,Candy & Gum,analysis,9,13.5
+2023-12-04,CND-MNT,Candy & Gum,analysis,7,14.0
+2023-12-04,CND-RBB,Candy & Gum,analysis,14,28.0
+2023-12-04,CND-SKT,Candy & Gum,analysis,9,15.75
+2023-12-04,CND-STB,Candy & Gum,analysis,8,14.0
+2023-12-04,DRK-CHI,Custom Drink,analysis,1,3.75
+2023-12-04,DRK-HOR,Custom Drink,analysis,5,22.5
+2023-12-04,DRK-MAT,Custom Drink,analysis,11,46.75
+2023-12-04,DRK-STR,Custom Drink,analysis,7,26.25
+2023-12-04,ENR-CEL,Energy Drink,analysis,13,42.25
+2023-12-04,ENR-MTN,Energy Drink,analysis,16,56.0
+2023-12-04,ENR-RBS,Energy Drink,analysis,14,52.5
+2023-12-04,ENR-RBU,Energy Drink,analysis,18,67.5
+2023-12-04,ITS-BLU,Italian Soda,analysis,9,31.5
+2023-12-04,ITS-COC,Italian Soda,analysis,2,7.0
+2023-12-04,ITS-PAS,Italian Soda,analysis,11,38.5
+2023-12-04,ITS-PEA,Italian Soda,analysis,6,21.0
+2023-12-04,ITS-STR,Italian Soda,analysis,8,28.0
+2023-12-04,SFT-COK,Soft Drink,analysis,23,40.25
+2023-12-04,SFT-DRP,Soft Drink,analysis,12,21.0
+2023-12-04,SFT-LEM,Soft Drink,analysis,10,17.5
+2023-12-04,SFT-SPR,Soft Drink,analysis,9,15.75
+2023-12-04,SFT-WAT,Soft Drink,analysis,32,40.0
+2023-12-04,SNK-BRW,Baked Good,analysis,13,32.5
+2023-12-04,SNK-CHC,Baked Good,analysis,18,36.0
+2023-12-04,SNK-RCK,Baked Good,analysis,9,13.5
+2023-12-04,SNK-SUG,Baked Good,analysis,10,20.0
+2023-12-11,CHP-DRT,Chips,analysis,22,33.0
+2023-12-11,CHP-LAY,Chips,analysis,19,28.5
+2023-12-11,CHP-POP,Chips,analysis,7,8.75
+2023-12-11,CHP-PRT,Chips,analysis,8,10.0
+2023-12-11,CND-GUM,Candy & Gum,analysis,18,27.0
+2023-12-11,CND-MNT,Candy & Gum,analysis,7,14.0
+2023-12-11,CND-RBB,Candy & Gum,analysis,13,26.0
+2023-12-11,CND-SKT,Candy & Gum,analysis,13,22.75
+2023-12-11,CND-STB,Candy & Gum,analysis,7,12.25
+2023-12-11,DRK-CHI,Custom Drink,analysis,2,7.5
+2023-12-11,DRK-HOR,Custom Drink,analysis,7,31.5
+2023-12-11,DRK-MAT,Custom Drink,analysis,14,59.5
+2023-12-11,DRK-STR,Custom Drink,analysis,8,30.0
+2023-12-11,ENR-CEL,Energy Drink,analysis,18,58.5
+2023-12-11,ENR-MTN,Energy Drink,analysis,12,42.0
+2023-12-11,ENR-RBS,Energy Drink,analysis,15,56.25
+2023-12-11,ENR-RBU,Energy Drink,analysis,23,86.25
+2023-12-11,ITS-BLU,Italian Soda,analysis,5,17.5
+2023-12-11,ITS-COC,Italian Soda,analysis,1,3.5
+2023-12-11,ITS-PAS,Italian Soda,analysis,11,38.5
+2023-12-11,ITS-PEA,Italian Soda,analysis,7,24.5
+2023-12-11,ITS-STR,Italian Soda,analysis,10,35.0
+2023-12-11,SFT-COK,Soft Drink,analysis,31,54.25
+2023-12-11,SFT-DRP,Soft Drink,analysis,18,31.5
+2023-12-11,SFT-LEM,Soft Drink,analysis,11,19.25
+2023-12-11,SFT-SPR,Soft Drink,analysis,29,50.75
+2023-12-11,SFT-WAT,Soft Drink,analysis,34,42.5
+2023-12-11,SNK-BRW,Baked Good,analysis,16,40.0
+2023-12-11,SNK-CHC,Baked Good,analysis,26,52.0
+2023-12-11,SNK-RCK,Baked Good,analysis,8,12.0
+2023-12-11,SNK-SUG,Baked Good,analysis,14,28.0
+2024-01-08,CHP-DRT,Chips,analysis,16,24.0
+2024-01-08,CHP-LAY,Chips,analysis,22,33.0
+2024-01-08,CHP-POP,Chips,analysis,7,8.75
+2024-01-08,CHP-PRT,Chips,analysis,5,6.25
+2024-01-08,CND-GUM,Candy & Gum,analysis,8,12.0
+2024-01-08,CND-MNT,Candy & Gum,analysis,6,12.0
+2024-01-08,CND-RBB,Candy & Gum,analysis,11,22.0
+2024-01-08,CND-SKT,Candy & Gum,analysis,6,10.5
+2024-01-08,CND-STB,Candy & Gum,analysis,6,10.5
+2024-01-08,DRK-HOR,Custom Drink,analysis,7,31.5
+2024-01-08,DRK-MAT,Custom Drink,analysis,10,42.5
+2024-01-08,DRK-STR,Custom Drink,analysis,10,37.5
+2024-01-08,ENR-CEL,Energy Drink,analysis,10,32.5
+2024-01-08,ENR-MTN,Energy Drink,analysis,8,28.0
+2024-01-08,ENR-RBS,Energy Drink,analysis,16,60.0
+2024-01-08,ENR-RBU,Energy Drink,analysis,20,75.0
+2024-01-08,ITS-BLU,Italian Soda,analysis,3,10.5
+2024-01-08,ITS-COC,Italian Soda,analysis,1,3.5
+2024-01-08,ITS-PAS,Italian Soda,analysis,6,21.0
+2024-01-08,ITS-PEA,Italian Soda,analysis,9,31.5
+2024-01-08,ITS-STR,Italian Soda,analysis,7,24.5
+2024-01-08,SFT-COK,Soft Drink,analysis,21,36.75
+2024-01-08,SFT-DRP,Soft Drink,analysis,11,19.25
+2024-01-08,SFT-LEM,Soft Drink,analysis,7,12.25
+2024-01-08,SFT-SPR,Soft Drink,analysis,17,29.75
+2024-01-08,SFT-WAT,Soft Drink,analysis,33,41.25
+2024-01-08,SNK-BRW,Baked Good,analysis,10,25.0
+2024-01-08,SNK-CHC,Baked Good,analysis,23,46.0
+2024-01-08,SNK-RCK,Baked Good,analysis,4,6.0
+2024-01-08,SNK-SUG,Baked Good,analysis,10,20.0
+2024-01-15,CHP-DRT,Chips,analysis,18,27.0
+2024-01-15,CHP-LAY,Chips,analysis,10,15.0
+2024-01-15,CHP-POP,Chips,analysis,7,8.75
+2024-01-15,CHP-PRT,Chips,analysis,6,7.5
+2024-01-15,CND-GUM,Candy & Gum,analysis,10,15.0
+2024-01-15,CND-MNT,Candy & Gum,analysis,12,24.0
+2024-01-15,CND-RBB,Candy & Gum,analysis,15,30.0
+2024-01-15,CND-SKT,Candy & Gum,analysis,8,14.0
+2024-01-15,CND-STB,Candy & Gum,analysis,9,15.75
+2024-01-15,DRK-CHI,Custom Drink,analysis,2,7.5
+2024-01-15,DRK-HOR,Custom Drink,analysis,9,40.5
+2024-01-15,DRK-MAT,Custom Drink,analysis,7,29.75
+2024-01-15,DRK-STR,Custom Drink,analysis,5,18.75
+2024-01-15,ENR-CEL,Energy Drink,analysis,9,29.25
+2024-01-15,ENR-MTN,Energy Drink,analysis,3,10.5
+2024-01-15,ENR-RBS,Energy Drink,analysis,8,30.0
+2024-01-15,ENR-RBU,Energy Drink,analysis,17,63.75
+2024-01-15,ITS-BLU,Italian Soda,analysis,5,17.5
+2024-01-15,ITS-COC,Italian Soda,analysis,1,3.5
+2024-01-15,ITS-PAS,Italian Soda,analysis,8,28.0
+2024-01-15,ITS-PEA,Italian Soda,analysis,8,28.0
+2024-01-15,ITS-STR,Italian Soda,analysis,5,17.5
+2024-01-15,SFT-COK,Soft Drink,analysis,23,40.25
+2024-01-15,SFT-DRP,Soft Drink,analysis,15,26.25
+2024-01-15,SFT-LEM,Soft Drink,analysis,7,12.25
+2024-01-15,SFT-SPR,Soft Drink,analysis,17,29.75
+2024-01-15,SFT-WAT,Soft Drink,analysis,30,37.5
+2024-01-15,SNK-BRW,Baked Good,analysis,13,32.5
+2024-01-15,SNK-CHC,Baked Good,analysis,18,36.0
+2024-01-15,SNK-RCK,Baked Good,analysis,5,7.5
+2024-01-15,SNK-SUG,Baked Good,analysis,6,12.0
+2024-01-22,CHP-DRT,Chips,post_strategy_1,22,33.0
+2024-01-22,CHP-LAY,Chips,post_strategy_1,15,22.5
+2024-01-22,CHP-POP,Chips,post_strategy_1,10,12.5
+2024-01-22,CHP-PRT,Chips,post_strategy_1,6,7.5
+2024-01-22,CND-GUM,Candy & Gum,post_strategy_1,16,24.0
+2024-01-22,CND-MNT,Candy & Gum,post_strategy_1,8,16.0
+2024-01-22,CND-RBB,Candy & Gum,post_strategy_1,14,28.0
+2024-01-22,CND-SKT,Candy & Gum,post_strategy_1,9,15.75
+2024-01-22,CND-STB,Candy & Gum,post_strategy_1,13,22.75
+2024-01-22,DRK-CHI,Custom Drink,post_strategy_1,11,41.25
+2024-01-22,DRK-HOR,Custom Drink,post_strategy_1,31,139.5
+2024-01-22,DRK-MAT,Custom Drink,post_strategy_1,39,165.75
+2024-01-22,DRK-STR,Custom Drink,post_strategy_1,18,67.5
+2024-01-22,ENR-CEL,Energy Drink,post_strategy_1,11,35.75
+2024-01-22,ENR-MTN,Energy Drink,post_strategy_1,16,56.0
+2024-01-22,ENR-RBS,Energy Drink,post_strategy_1,11,41.25
+2024-01-22,ENR-RBU,Energy Drink,post_strategy_1,26,97.5
+2024-01-22,ITS-BLU,Italian Soda,post_strategy_1,30,105.0
+2024-01-22,ITS-COC,Italian Soda,post_strategy_1,18,63.0
+2024-01-22,ITS-PAS,Italian Soda,post_strategy_1,35,122.5
+2024-01-22,ITS-PEA,Italian Soda,post_strategy_1,24,84.0
+2024-01-22,ITS-STR,Italian Soda,post_strategy_1,52,182.0
+2024-01-22,SFT-COK,Soft Drink,post_strategy_1,16,28.0
+2024-01-22,SFT-DRP,Soft Drink,post_strategy_1,16,28.0
+2024-01-22,SFT-LEM,Soft Drink,post_strategy_1,11,19.25
+2024-01-22,SFT-SPR,Soft Drink,post_strategy_1,19,33.25
+2024-01-22,SFT-WAT,Soft Drink,post_strategy_1,36,45.0
+2024-01-22,SNK-BRW,Baked Good,post_strategy_1,15,37.5
+2024-01-22,SNK-CHC,Baked Good,post_strategy_1,25,50.0
+2024-01-22,SNK-RCK,Baked Good,post_strategy_1,14,21.0
+2024-01-22,SNK-SUG,Baked Good,post_strategy_1,8,16.0
+2024-01-29,CHP-DRT,Chips,post_strategy_1,22,33.0
+2024-01-29,CHP-LAY,Chips,post_strategy_1,24,36.0
+2024-01-29,CHP-POP,Chips,post_strategy_1,9,11.25
+2024-01-29,CHP-PRT,Chips,post_strategy_1,9,11.25
+2024-01-29,CND-GUM,Candy & Gum,post_strategy_1,11,16.5
+2024-01-29,CND-MNT,Candy & Gum,post_strategy_1,6,12.0
+2024-01-29,CND-RBB,Candy & Gum,post_strategy_1,21,42.0
+2024-01-29,CND-SKT,Candy & Gum,post_strategy_1,12,21.0
+2024-01-29,CND-STB,Candy & Gum,post_strategy_1,15,26.25
+2024-01-29,DRK-CHI,Custom Drink,post_strategy_1,13,48.75
+2024-01-29,DRK-HOR,Custom Drink,post_strategy_1,18,81.0
+2024-01-29,DRK-MAT,Custom Drink,post_strategy_1,34,144.5
+2024-01-29,DRK-STR,Custom Drink,post_strategy_1,27,101.25
+2024-01-29,ENR-CEL,Energy Drink,post_strategy_1,10,32.5
+2024-01-29,ENR-MTN,Energy Drink,post_strategy_1,18,63.0
+2024-01-29,ENR-RBS,Energy Drink,post_strategy_1,18,67.5
+2024-01-29,ENR-RBU,Energy Drink,post_strategy_1,22,82.5
+2024-01-29,ITS-BLU,Italian Soda,post_strategy_1,25,87.5
+2024-01-29,ITS-COC,Italian Soda,post_strategy_1,10,35.0
+2024-01-29,ITS-PAS,Italian Soda,post_strategy_1,31,108.5
+2024-01-29,ITS-PEA,Italian Soda,post_strategy_1,31,108.5
+2024-01-29,ITS-STR,Italian Soda,post_strategy_1,55,192.5
+2024-01-29,SFT-COK,Soft Drink,post_strategy_1,24,42.0
+2024-01-29,SFT-DRP,Soft Drink,post_strategy_1,20,35.0
+2024-01-29,SFT-LEM,Soft Drink,post_strategy_1,11,19.25
+2024-01-29,SFT-SPR,Soft Drink,post_strategy_1,19,33.25
+2024-01-29,SFT-WAT,Soft Drink,post_strategy_1,44,55.0
+2024-01-29,SNK-BRW,Baked Good,post_strategy_1,12,30.0
+2024-01-29,SNK-CHC,Baked Good,post_strategy_1,28,56.0
+2024-01-29,SNK-RCK,Baked Good,post_strategy_1,12,18.0
+2024-01-29,SNK-SUG,Baked Good,post_strategy_1,15,30.0
+2024-02-05,CHP-DRT,Chips,post_strategy_1,25,37.5
+2024-02-05,CHP-LAY,Chips,post_strategy_1,24,36.0
+2024-02-05,CHP-POP,Chips,post_strategy_1,12,15.0
+2024-02-05,CHP-PRT,Chips,post_strategy_1,10,12.5
+2024-02-05,CHP-TAK,Chips,post_strategy_1,24,42.0
+2024-02-05,CND-GUM,Candy & Gum,post_strategy_1,18,27.0
+2024-02-05,CND-MNT,Candy & Gum,post_strategy_1,6,12.0
+2024-02-05,CND-RBB,Candy & Gum,post_strategy_1,24,48.0
+2024-02-05,CND-SKT,Candy & Gum,post_strategy_1,13,22.75
+2024-02-05,CND-STB,Candy & Gum,post_strategy_1,19,33.25
+2024-02-05,DRK-CHI,Custom Drink,post_strategy_1,13,48.75
+2024-02-05,DRK-HOR,Custom Drink,post_strategy_1,32,144.0
+2024-02-05,DRK-MAT,Custom Drink,post_strategy_1,37,157.25
+2024-02-05,DRK-STR,Custom Drink,post_strategy_1,22,82.5
+2024-02-05,ENR-CEL,Energy Drink,post_strategy_1,10,32.5
+2024-02-05,ENR-MTN,Energy Drink,post_strategy_1,21,73.5
+2024-02-05,ENR-RBS,Energy Drink,post_strategy_1,12,45.0
+2024-02-05,ENR-RBU,Energy Drink,post_strategy_1,18,67.5
+2024-02-05,ITS-BLU,Italian Soda,post_strategy_1,21,73.5
+2024-02-05,ITS-COC,Italian Soda,post_strategy_1,9,31.5
+2024-02-05,ITS-PAS,Italian Soda,post_strategy_1,36,126.0
+2024-02-05,ITS-PEA,Italian Soda,post_strategy_1,25,87.5
+2024-02-05,ITS-STR,Italian Soda,post_strategy_1,55,192.5
+2024-02-05,SFT-COK,Soft Drink,post_strategy_1,30,52.5
+2024-02-05,SFT-DRP,Soft Drink,post_strategy_1,22,38.5
+2024-02-05,SFT-LEM,Soft Drink,post_strategy_1,11,19.25
+2024-02-05,SFT-SPR,Soft Drink,post_strategy_1,22,38.5
+2024-02-05,SFT-WAT,Soft Drink,post_strategy_1,46,57.5
+2024-02-05,SNK-BRW,Baked Good,post_strategy_1,14,35.0
+2024-02-05,SNK-CHC,Baked Good,post_strategy_1,31,62.0
+2024-02-05,SNK-RCK,Baked Good,post_strategy_1,6,9.0
+2024-02-05,SNK-SUG,Baked Good,post_strategy_1,20,40.0
+2024-02-12,CHP-DRT,Chips,post_strategy_1,22,33.0
+2024-02-12,CHP-LAY,Chips,post_strategy_1,16,24.0
+2024-02-12,CHP-POP,Chips,post_strategy_1,10,12.5
+2024-02-12,CHP-PRT,Chips,post_strategy_1,7,8.75
+2024-02-12,CHP-TAK,Chips,post_strategy_1,19,33.25
+2024-02-12,CND-GUM,Candy & Gum,post_strategy_1,14,21.0
+2024-02-12,CND-MNT,Candy & Gum,post_strategy_1,8,16.0
+2024-02-12,CND-RBB,Candy & Gum,post_strategy_1,27,54.0
+2024-02-12,CND-SKT,Candy & Gum,post_strategy_1,6,10.5
+2024-02-12,CND-STB,Candy & Gum,post_strategy_1,20,35.0
+2024-02-12,DRK-CHI,Custom Drink,post_strategy_1,11,41.25
+2024-02-12,DRK-HOR,Custom Drink,post_strategy_1,29,130.5
+2024-02-12,DRK-MAT,Custom Drink,post_strategy_1,35,148.75
+2024-02-12,DRK-STR,Custom Drink,post_strategy_1,25,93.75
+2024-02-12,ENR-CEL,Energy Drink,post_strategy_1,15,48.75
+2024-02-12,ENR-MTN,Energy Drink,post_strategy_1,13,45.5
+2024-02-12,ENR-RBS,Energy Drink,post_strategy_1,18,67.5
+2024-02-12,ENR-RBU,Energy Drink,post_strategy_1,26,97.5
+2024-02-12,ITS-BLU,Italian Soda,post_strategy_1,8,28.0
+2024-02-12,ITS-COC,Italian Soda,post_strategy_1,15,52.5
+2024-02-12,ITS-PAS,Italian Soda,post_strategy_1,40,140.0
+2024-02-12,ITS-PEA,Italian Soda,post_strategy_1,24,84.0
+2024-02-12,ITS-STR,Italian Soda,post_strategy_1,43,150.5
+2024-02-12,SFT-COK,Soft Drink,post_strategy_1,29,50.75
+2024-02-12,SFT-DRP,Soft Drink,post_strategy_1,14,24.5
+2024-02-12,SFT-LEM,Soft Drink,post_strategy_1,7,12.25
+2024-02-12,SFT-SPR,Soft Drink,post_strategy_1,26,45.5
+2024-02-12,SFT-WAT,Soft Drink,post_strategy_1,26,32.5
+2024-02-12,SNK-BRW,Baked Good,post_strategy_1,15,37.5
+2024-02-12,SNK-CHC,Baked Good,post_strategy_1,30,60.0
+2024-02-12,SNK-RCK,Baked Good,post_strategy_1,8,12.0
+2024-02-12,SNK-SUG,Baked Good,post_strategy_1,16,32.0
+2024-02-19,CHP-DRT,Chips,post_strategy_1,17,25.5
+2024-02-19,CHP-LAY,Chips,post_strategy_1,15,22.5
+2024-02-19,CHP-POP,Chips,post_strategy_1,5,6.25
+2024-02-19,CHP-PRT,Chips,post_strategy_1,9,11.25
+2024-02-19,CHP-TAK,Chips,post_strategy_1,22,38.5
+2024-02-19,CND-GUM,Candy & Gum,post_strategy_1,12,18.0
+2024-02-19,CND-MNT,Candy & Gum,post_strategy_1,5,10.0
+2024-02-19,CND-RBB,Candy & Gum,post_strategy_1,19,38.0
+2024-02-19,CND-SKT,Candy & Gum,post_strategy_1,8,14.0
+2024-02-19,CND-STB,Candy & Gum,post_strategy_1,12,21.0
+2024-02-19,DRK-CHI,Custom Drink,post_strategy_1,10,37.5
+2024-02-19,DRK-HOR,Custom Drink,post_strategy_1,17,76.5
+2024-02-19,DRK-MAT,Custom Drink,post_strategy_1,30,127.5
+2024-02-19,DRK-STR,Custom Drink,post_strategy_1,14,52.5
+2024-02-19,ENR-CEL,Energy Drink,post_strategy_1,11,35.75
+2024-02-19,ENR-MTN,Energy Drink,post_strategy_1,12,42.0
+2024-02-19,ENR-RBS,Energy Drink,post_strategy_1,12,45.0
+2024-02-19,ENR-RBU,Energy Drink,post_strategy_1,15,56.25
+2024-02-19,ITS-BLU,Italian Soda,post_strategy_1,23,80.5
+2024-02-19,ITS-COC,Italian Soda,post_strategy_1,2,7.0
+2024-02-19,ITS-PAS,Italian Soda,post_strategy_1,26,91.0
+2024-02-19,ITS-PEA,Italian Soda,post_strategy_1,21,73.5
+2024-02-19,ITS-STR,Italian Soda,post_strategy_1,40,140.0
+2024-02-19,SFT-COK,Soft Drink,post_strategy_1,17,29.75
+2024-02-19,SFT-DRP,Soft Drink,post_strategy_1,6,10.5
+2024-02-19,SFT-LEM,Soft Drink,post_strategy_1,12,21.0
+2024-02-19,SFT-SPR,Soft Drink,post_strategy_1,16,28.0
+2024-02-19,SFT-WAT,Soft Drink,post_strategy_1,28,35.0
+2024-02-19,SNK-BRW,Baked Good,post_strategy_1,14,35.0
+2024-02-19,SNK-CHC,Baked Good,post_strategy_1,21,42.0
+2024-02-19,SNK-RCK,Baked Good,post_strategy_1,8,12.0
+2024-02-19,SNK-SUG,Baked Good,post_strategy_1,13,26.0
+2024-02-26,CHP-DRT,Chips,post_strategy_1,14,21.0
+2024-02-26,CHP-LAY,Chips,post_strategy_1,19,28.5
+2024-02-26,CHP-POP,Chips,post_strategy_1,7,8.75
+2024-02-26,CHP-PRT,Chips,post_strategy_1,10,12.5
+2024-02-26,CHP-TAK,Chips,post_strategy_1,15,26.25
+2024-02-26,CND-GUM,Candy & Gum,post_strategy_1,14,21.0
+2024-02-26,CND-MNT,Candy & Gum,post_strategy_1,7,14.0
+2024-02-26,CND-RBB,Candy & Gum,post_strategy_1,19,38.0
+2024-02-26,CND-SKT,Candy & Gum,post_strategy_1,9,15.75
+2024-02-26,CND-STB,Candy & Gum,post_strategy_1,8,14.0
+2024-02-26,DRK-CHI,Custom Drink,post_strategy_1,11,41.25
+2024-02-26,DRK-HOR,Custom Drink,post_strategy_1,21,94.5
+2024-02-26,DRK-MAT,Custom Drink,post_strategy_1,33,140.25
+2024-02-26,DRK-STR,Custom Drink,post_strategy_1,23,86.25
+2024-02-26,ENR-CEL,Energy Drink,post_strategy_1,14,45.5
+2024-02-26,ENR-MTN,Energy Drink,post_strategy_1,19,66.5
+2024-02-26,ENR-RBS,Energy Drink,post_strategy_1,13,48.75
+2024-02-26,ENR-RBU,Energy Drink,post_strategy_1,22,82.5
+2024-02-26,ITS-BLU,Italian Soda,post_strategy_1,26,91.0
+2024-02-26,ITS-COC,Italian Soda,post_strategy_1,8,28.0
+2024-02-26,ITS-PAS,Italian Soda,post_strategy_1,37,129.5
+2024-02-26,ITS-PEA,Italian Soda,post_strategy_1,21,73.5
+2024-02-26,ITS-STR,Italian Soda,post_strategy_1,38,133.0
+2024-02-26,SFT-COK,Soft Drink,post_strategy_1,20,35.0
+2024-02-26,SFT-DRP,Soft Drink,post_strategy_1,11,19.25
+2024-02-26,SFT-LEM,Soft Drink,post_strategy_1,5,8.75
+2024-02-26,SFT-SPR,Soft Drink,post_strategy_1,22,38.5
+2024-02-26,SFT-WAT,Soft Drink,post_strategy_1,20,25.0
+2024-02-26,SNK-BRW,Baked Good,post_strategy_1,13,32.5
+2024-02-26,SNK-CHC,Baked Good,post_strategy_1,22,44.0
+2024-02-26,SNK-RCK,Baked Good,post_strategy_1,9,13.5
+2024-02-26,SNK-SUG,Baked Good,post_strategy_1,12,24.0
+2024-03-04,CHP-DRT,Chips,post_strategy_1,14,21.0
+2024-03-04,CHP-LAY,Chips,post_strategy_1,17,25.5
+2024-03-04,CHP-POP,Chips,post_strategy_1,10,12.5
+2024-03-04,CHP-PRT,Chips,post_strategy_1,9,11.25
+2024-03-04,CHP-TAK,Chips,post_strategy_1,18,31.5
+2024-03-04,CND-GUM,Candy & Gum,post_strategy_1,9,13.5
+2024-03-04,CND-MNT,Candy & Gum,post_strategy_1,8,16.0
+2024-03-04,CND-RBB,Candy & Gum,post_strategy_1,11,22.0
+2024-03-04,CND-SKT,Candy & Gum,post_strategy_1,7,12.25
+2024-03-04,CND-STB,Candy & Gum,post_strategy_1,3,5.25
+2024-03-04,DRK-CHI,Custom Drink,post_strategy_1,10,37.5
+2024-03-04,DRK-HOR,Custom Drink,post_strategy_1,20,90.0
+2024-03-04,DRK-MAT,Custom Drink,post_strategy_1,25,106.25
+2024-03-04,DRK-STR,Custom Drink,post_strategy_1,18,67.5
+2024-03-04,ENR-CEL,Energy Drink,post_strategy_1,10,32.5
+2024-03-04,ENR-MTN,Energy Drink,post_strategy_1,10,35.0
+2024-03-04,ENR-RBS,Energy Drink,post_strategy_1,12,48.0
+2024-03-04,ENR-RBU,Energy Drink,post_strategy_1,18,72.0
+2024-03-04,ITS-BLU,Italian Soda,post_strategy_1,15,52.5
+2024-03-04,ITS-COC,Italian Soda,post_strategy_1,8,28.0
+2024-03-04,ITS-PAS,Italian Soda,post_strategy_1,25,87.5
+2024-03-04,ITS-PEA,Italian Soda,post_strategy_1,21,73.5
+2024-03-04,ITS-STR,Italian Soda,post_strategy_1,44,154.0
+2024-03-04,SFT-COK,Soft Drink,post_strategy_1,21,36.75
+2024-03-04,SFT-DRP,Soft Drink,post_strategy_1,7,12.25
+2024-03-04,SFT-LEM,Soft Drink,post_strategy_1,5,8.75
+2024-03-04,SFT-SPR,Soft Drink,post_strategy_1,18,31.5
+2024-03-04,SFT-WAT,Soft Drink,post_strategy_1,32,40.0
+2024-03-04,SNK-BRW,Baked Good,post_strategy_1,12,30.0
+2024-03-04,SNK-CHC,Baked Good,post_strategy_1,29,58.0
+2024-03-04,SNK-RCK,Baked Good,post_strategy_1,6,9.0
+2024-03-04,SNK-SUG,Baked Good,post_strategy_1,5,10.0
+2024-03-11,CHP-DRT,Chips,post_strategy_1,18,27.0
+2024-03-11,CHP-LAY,Chips,post_strategy_1,26,39.0
+2024-03-11,CHP-POP,Chips,post_strategy_1,11,13.75
+2024-03-11,CHP-PRT,Chips,post_strategy_1,9,11.25
+2024-03-11,CHP-TAK,Chips,post_strategy_1,25,43.75
+2024-03-11,CND-GUM,Candy & Gum,post_strategy_1,19,28.5
+2024-03-11,CND-MNT,Candy & Gum,post_strategy_1,8,16.0
+2024-03-11,CND-RBB,Candy & Gum,post_strategy_1,15,30.0
+2024-03-11,CND-SKT,Candy & Gum,post_strategy_1,11,19.25
+2024-03-11,CND-STB,Candy & Gum,post_strategy_1,11,19.25
+2024-03-11,DRK-CHI,Custom Drink,post_strategy_1,9,33.75
+2024-03-11,DRK-HOR,Custom Drink,post_strategy_1,25,112.5
+2024-03-11,DRK-MAT,Custom Drink,post_strategy_1,35,148.75
+2024-03-11,DRK-STR,Custom Drink,post_strategy_1,29,108.75
+2024-03-11,ENR-CEL,Energy Drink,post_strategy_1,25,81.25
+2024-03-11,ENR-MTN,Energy Drink,post_strategy_1,18,63.0
+2024-03-11,ENR-RBS,Energy Drink,post_strategy_1,19,76.0
+2024-03-11,ENR-RBU,Energy Drink,post_strategy_1,22,88.0
+2024-03-11,ITS-BLU,Italian Soda,post_strategy_1,29,101.5
+2024-03-11,ITS-COC,Italian Soda,post_strategy_1,12,42.0
+2024-03-11,ITS-PAS,Italian Soda,post_strategy_1,20,70.0
+2024-03-11,ITS-PEA,Italian Soda,post_strategy_1,28,98.0
+2024-03-11,ITS-STR,Italian Soda,post_strategy_1,56,196.0
+2024-03-11,SFT-COK,Soft Drink,post_strategy_1,30,52.5
+2024-03-11,SFT-DRP,Soft Drink,post_strategy_1,14,24.5
+2024-03-11,SFT-LEM,Soft Drink,post_strategy_1,8,14.0
+2024-03-11,SFT-SPR,Soft Drink,post_strategy_1,19,33.25
+2024-03-11,SFT-WAT,Soft Drink,post_strategy_1,30,37.5
+2024-03-11,SNK-BRW,Baked Good,post_strategy_1,19,47.5
+2024-03-11,SNK-CHC,Baked Good,post_strategy_1,29,58.0
+2024-03-11,SNK-RCK,Baked Good,post_strategy_1,10,15.0
+2024-03-11,SNK-SUG,Baked Good,post_strategy_1,6,12.0
+2024-03-18,CHP-DRT,Chips,post_strategy_2,22,33.0
+2024-03-18,CHP-LAY,Chips,post_strategy_2,24,36.0
+2024-03-18,CHP-POP,Chips,post_strategy_2,7,8.75
+2024-03-18,CHP-TAK,Chips,post_strategy_2,38,66.5
+2024-03-18,CND-GBR,Candy & Gum,post_strategy_2,21,42.0
+2024-03-18,CND-GUM,Candy & Gum,post_strategy_2,12,18.0
+2024-03-18,CND-RBB,Candy & Gum,post_strategy_2,16,32.0
+2024-03-18,CND-SKT,Candy & Gum,post_strategy_2,10,17.5
+2024-03-18,CND-STB,Candy & Gum,post_strategy_2,20,35.0
+2024-03-18,DRK-CHI,Custom Drink,post_strategy_2,9,33.75
+2024-03-18,DRK-HOR,Custom Drink,post_strategy_2,23,103.5
+2024-03-18,DRK-MAT,Custom Drink,post_strategy_2,37,157.25
+2024-03-18,DRK-STR,Custom Drink,post_strategy_2,25,93.75
+2024-03-18,ENR-CEL,Energy Drink,post_strategy_2,16,52.0
+2024-03-18,ENR-MTN,Energy Drink,post_strategy_2,20,70.0
+2024-03-18,ENR-RBS,Energy Drink,post_strategy_2,11,44.0
+2024-03-18,ENR-RBU,Energy Drink,post_strategy_2,23,92.0
+2024-03-18,ITS-BLU,Italian Soda,post_strategy_2,21,73.5
+2024-03-18,ITS-COC,Italian Soda,post_strategy_2,12,42.0
+2024-03-18,ITS-PAS,Italian Soda,post_strategy_2,39,136.5
+2024-03-18,ITS-PEA,Italian Soda,post_strategy_2,20,70.0
+2024-03-18,ITS-STR,Italian Soda,post_strategy_2,58,203.0
+2024-03-18,SFT-COK,Soft Drink,post_strategy_2,27,47.25
+2024-03-18,SFT-DRP,Soft Drink,post_strategy_2,19,33.25
+2024-03-18,SFT-LEM,Soft Drink,post_strategy_2,15,26.25
+2024-03-18,SFT-SPR,Soft Drink,post_strategy_2,14,24.5
+2024-03-18,SFT-WAT,Soft Drink,post_strategy_2,30,37.5
+2024-03-18,SNK-BRW,Baked Good,post_strategy_2,12,30.0
+2024-03-18,SNK-CHC,Baked Good,post_strategy_2,33,66.0
+2024-03-18,SNK-LMB,Baked Good,post_strategy_2,17,38.25
+2024-03-18,SNK-SUG,Baked Good,post_strategy_2,13,26.0
+2024-04-01,CHP-DRT,Chips,post_strategy_2,24,36.0
+2024-04-01,CHP-LAY,Chips,post_strategy_2,22,33.0
+2024-04-01,CHP-POP,Chips,post_strategy_2,10,12.5
+2024-04-01,CHP-TAK,Chips,post_strategy_2,28,49.0
+2024-04-01,CND-GBR,Candy & Gum,post_strategy_2,17,34.0
+2024-04-01,CND-GUM,Candy & Gum,post_strategy_2,20,30.0
+2024-04-01,CND-RBB,Candy & Gum,post_strategy_2,19,38.0
+2024-04-01,CND-SKT,Candy & Gum,post_strategy_2,13,22.75
+2024-04-01,CND-STB,Candy & Gum,post_strategy_2,22,38.5
+2024-04-01,DRK-CHI,Custom Drink,post_strategy_2,11,41.25
+2024-04-01,DRK-HOR,Custom Drink,post_strategy_2,25,112.5
+2024-04-01,DRK-MAT,Custom Drink,post_strategy_2,43,182.75
+2024-04-01,DRK-STR,Custom Drink,post_strategy_2,24,90.0
+2024-04-01,ENR-CEL,Energy Drink,post_strategy_2,22,71.5
+2024-04-01,ENR-MTN,Energy Drink,post_strategy_2,14,49.0
+2024-04-01,ENR-RBS,Energy Drink,post_strategy_2,17,68.0
+2024-04-01,ENR-RBU,Energy Drink,post_strategy_2,20,80.0
+2024-04-01,ITS-BLU,Italian Soda,post_strategy_2,24,84.0
+2024-04-01,ITS-COC,Italian Soda,post_strategy_2,10,35.0
+2024-04-01,ITS-PAS,Italian Soda,post_strategy_2,41,143.5
+2024-04-01,ITS-PEA,Italian Soda,post_strategy_2,24,84.0
+2024-04-01,ITS-STR,Italian Soda,post_strategy_2,56,196.0
+2024-04-01,SFT-COK,Soft Drink,post_strategy_2,25,43.75
+2024-04-01,SFT-DRP,Soft Drink,post_strategy_2,15,26.25
+2024-04-01,SFT-LEM,Soft Drink,post_strategy_2,14,24.5
+2024-04-01,SFT-SPR,Soft Drink,post_strategy_2,24,42.0
+2024-04-01,SFT-WAT,Soft Drink,post_strategy_2,41,51.25
+2024-04-01,SNK-BRW,Baked Good,post_strategy_2,11,27.5
+2024-04-01,SNK-CHC,Baked Good,post_strategy_2,30,60.0
+2024-04-01,SNK-LMB,Baked Good,post_strategy_2,12,27.0
+2024-04-01,SNK-SUG,Baked Good,post_strategy_2,6,12.0
+2024-04-08,CHP-DRT,Chips,post_strategy_2,31,46.5
+2024-04-08,CHP-LAY,Chips,post_strategy_2,25,37.5
+2024-04-08,CHP-POP,Chips,post_strategy_2,15,18.75
+2024-04-08,CHP-TAK,Chips,post_strategy_2,26,45.5
+2024-04-08,CND-GBR,Candy & Gum,post_strategy_2,13,26.0
+2024-04-08,CND-GUM,Candy & Gum,post_strategy_2,18,27.0
+2024-04-08,CND-RBB,Candy & Gum,post_strategy_2,17,34.0
+2024-04-08,CND-SKT,Candy & Gum,post_strategy_2,14,24.5
+2024-04-08,CND-STB,Candy & Gum,post_strategy_2,12,21.0
+2024-04-08,DRK-CHI,Custom Drink,post_strategy_2,14,52.5
+2024-04-08,DRK-HOR,Custom Drink,post_strategy_2,30,135.0
+2024-04-08,DRK-MAT,Custom Drink,post_strategy_2,48,204.0
+2024-04-08,DRK-STR,Custom Drink,post_strategy_2,21,78.75
+2024-04-08,ENR-CEL,Energy Drink,post_strategy_2,21,68.25
+2024-04-08,ENR-MTN,Energy Drink,post_strategy_2,17,59.5
+2024-04-08,ENR-RBS,Energy Drink,post_strategy_2,10,40.0
+2024-04-08,ENR-RBU,Energy Drink,post_strategy_2,16,64.0
+2024-04-08,ITS-BLU,Italian Soda,post_strategy_2,23,80.5
+2024-04-08,ITS-COC,Italian Soda,post_strategy_2,7,24.5
+2024-04-08,ITS-PAS,Italian Soda,post_strategy_2,48,168.0
+2024-04-08,ITS-PEA,Italian Soda,post_strategy_2,16,56.0
+2024-04-08,ITS-STR,Italian Soda,post_strategy_2,49,171.5
+2024-04-08,SFT-COK,Soft Drink,post_strategy_2,23,40.25
+2024-04-08,SFT-DRP,Soft Drink,post_strategy_2,8,14.0
+2024-04-08,SFT-LEM,Soft Drink,post_strategy_2,8,14.0
+2024-04-08,SFT-SPR,Soft Drink,post_strategy_2,19,33.25
+2024-04-08,SFT-WAT,Soft Drink,post_strategy_2,35,43.75
+2024-04-08,SNK-BRW,Baked Good,post_strategy_2,12,30.0
+2024-04-08,SNK-CHC,Baked Good,post_strategy_2,29,58.0
+2024-04-08,SNK-LMB,Baked Good,post_strategy_2,11,24.75
+2024-04-08,SNK-SUG,Baked Good,post_strategy_2,7,14.0
+2024-04-15,CHP-DRT,Chips,post_strategy_2,19,28.5
+2024-04-15,CHP-LAY,Chips,post_strategy_2,28,42.0
+2024-04-15,CHP-POP,Chips,post_strategy_2,11,13.75
+2024-04-15,CHP-TAK,Chips,post_strategy_2,23,40.25
+2024-04-15,CND-GBR,Candy & Gum,post_strategy_2,12,24.0
+2024-04-15,CND-GUM,Candy & Gum,post_strategy_2,16,24.0
+2024-04-15,CND-RBB,Candy & Gum,post_strategy_2,13,26.0
+2024-04-15,CND-SKT,Candy & Gum,post_strategy_2,6,10.5
+2024-04-15,CND-STB,Candy & Gum,post_strategy_2,10,17.5
+2024-04-15,DRK-CHI,Custom Drink,post_strategy_2,15,56.25
+2024-04-15,DRK-HOR,Custom Drink,post_strategy_2,17,76.5
+2024-04-15,DRK-MAT,Custom Drink,post_strategy_2,36,153.0
+2024-04-15,DRK-STR,Custom Drink,post_strategy_2,27,101.25
+2024-04-15,ENR-CEL,Energy Drink,post_strategy_2,13,42.25
+2024-04-15,ENR-MTN,Energy Drink,post_strategy_2,17,59.5
+2024-04-15,ENR-RBS,Energy Drink,post_strategy_2,13,52.0
+2024-04-15,ENR-RBU,Energy Drink,post_strategy_2,12,48.0
+2024-04-15,ITS-BLU,Italian Soda,post_strategy_2,26,91.0
+2024-04-15,ITS-COC,Italian Soda,post_strategy_2,12,42.0
+2024-04-15,ITS-PAS,Italian Soda,post_strategy_2,29,101.5
+2024-04-15,ITS-PEA,Italian Soda,post_strategy_2,22,77.0
+2024-04-15,ITS-STR,Italian Soda,post_strategy_2,51,178.5
+2024-04-15,SFT-COK,Soft Drink,post_strategy_2,29,50.75
+2024-04-15,SFT-DRP,Soft Drink,post_strategy_2,14,24.5
+2024-04-15,SFT-LEM,Soft Drink,post_strategy_2,6,10.5
+2024-04-15,SFT-SPR,Soft Drink,post_strategy_2,16,28.0
+2024-04-15,SFT-WAT,Soft Drink,post_strategy_2,30,37.5
+2024-04-15,SNK-BRW,Baked Good,post_strategy_2,13,32.5
+2024-04-15,SNK-CHC,Baked Good,post_strategy_2,34,68.0
+2024-04-15,SNK-LMB,Baked Good,post_strategy_2,14,31.5
+2024-04-15,SNK-SUG,Baked Good,post_strategy_2,11,22.0
+2024-04-22,CHP-DRT,Chips,post_strategy_2,30,45.0
+2024-04-22,CHP-LAY,Chips,post_strategy_2,22,33.0
+2024-04-22,CHP-POP,Chips,post_strategy_2,12,15.0
+2024-04-22,CHP-TAK,Chips,post_strategy_2,29,50.75
+2024-04-22,CND-GBR,Candy & Gum,post_strategy_2,20,40.0
+2024-04-22,CND-GUM,Candy & Gum,post_strategy_2,19,28.5
+2024-04-22,CND-RBB,Candy & Gum,post_strategy_2,22,44.0
+2024-04-22,CND-SKT,Candy & Gum,post_strategy_2,11,19.25
+2024-04-22,CND-STB,Candy & Gum,post_strategy_2,12,21.0
+2024-04-22,DRK-CHI,Custom Drink,post_strategy_2,14,52.5
+2024-04-22,DRK-HOR,Custom Drink,post_strategy_2,30,135.0
+2024-04-22,DRK-MAT,Custom Drink,post_strategy_2,51,216.75
+2024-04-22,DRK-STR,Custom Drink,post_strategy_2,34,127.5
+2024-04-22,ENR-CEL,Energy Drink,post_strategy_2,16,52.0
+2024-04-22,ENR-MTN,Energy Drink,post_strategy_2,16,56.0
+2024-04-22,ENR-RBS,Energy Drink,post_strategy_2,19,76.0
+2024-04-22,ENR-RBU,Energy Drink,post_strategy_2,22,88.0
+2024-04-22,ITS-BLU,Italian Soda,post_strategy_2,28,98.0
+2024-04-22,ITS-COC,Italian Soda,post_strategy_2,13,45.5
+2024-04-22,ITS-PAS,Italian Soda,post_strategy_2,44,154.0
+2024-04-22,ITS-PEA,Italian Soda,post_strategy_2,29,101.5
+2024-04-22,ITS-STR,Italian Soda,post_strategy_2,60,210.0
+2024-04-22,SFT-COK,Soft Drink,post_strategy_2,33,57.75
+2024-04-22,SFT-DRP,Soft Drink,post_strategy_2,20,35.0
+2024-04-22,SFT-LEM,Soft Drink,post_strategy_2,8,14.0
+2024-04-22,SFT-SPR,Soft Drink,post_strategy_2,21,36.75
+2024-04-22,SFT-WAT,Soft Drink,post_strategy_2,30,37.5
+2024-04-22,SNK-BRW,Baked Good,post_strategy_2,18,45.0
+2024-04-22,SNK-CHC,Baked Good,post_strategy_2,21,42.0
+2024-04-22,SNK-LMB,Baked Good,post_strategy_2,14,31.5
+2024-04-22,SNK-SUG,Baked Good,post_strategy_2,8,16.0
+2024-04-29,CHP-DRT,Chips,post_strategy_2,22,33.0
+2024-04-29,CHP-LAY,Chips,post_strategy_2,15,22.5
+2024-04-29,CHP-POP,Chips,post_strategy_2,8,10.0
+2024-04-29,CHP-TAK,Chips,post_strategy_2,17,29.75
+2024-04-29,CND-GBR,Candy & Gum,post_strategy_2,14,28.0
+2024-04-29,CND-GUM,Candy & Gum,post_strategy_2,9,13.5
+2024-04-29,CND-RBB,Candy & Gum,post_strategy_2,17,34.0
+2024-04-29,CND-SKT,Candy & Gum,post_strategy_2,10,17.5
+2024-04-29,CND-STB,Candy & Gum,post_strategy_2,8,14.0
+2024-04-29,DRK-CHI,Custom Drink,post_strategy_2,15,56.25
+2024-04-29,DRK-HOR,Custom Drink,post_strategy_2,20,90.0
+2024-04-29,DRK-MAT,Custom Drink,post_strategy_2,29,123.25
+2024-04-29,DRK-STR,Custom Drink,post_strategy_2,21,78.75
+2024-04-29,ENR-CEL,Energy Drink,post_strategy_2,16,52.0
+2024-04-29,ENR-MTN,Energy Drink,post_strategy_2,11,38.5
+2024-04-29,ENR-RBS,Energy Drink,post_strategy_2,11,44.0
+2024-04-29,ENR-RBU,Energy Drink,post_strategy_2,17,68.0
+2024-04-29,ITS-BLU,Italian Soda,post_strategy_2,21,73.5
+2024-04-29,ITS-COC,Italian Soda,post_strategy_2,13,45.5
+2024-04-29,ITS-PAS,Italian Soda,post_strategy_2,43,150.5
+2024-04-29,ITS-PEA,Italian Soda,post_strategy_2,17,59.5
+2024-04-29,ITS-STR,Italian Soda,post_strategy_2,62,217.0
+2024-04-29,SFT-COK,Soft Drink,post_strategy_2,25,43.75
+2024-04-29,SFT-DRP,Soft Drink,post_strategy_2,15,26.25
+2024-04-29,SFT-LEM,Soft Drink,post_strategy_2,12,21.0
+2024-04-29,SFT-SPR,Soft Drink,post_strategy_2,20,35.0
+2024-04-29,SFT-WAT,Soft Drink,post_strategy_2,50,62.5
+2024-04-29,SNK-BRW,Baked Good,post_strategy_2,18,45.0
+2024-04-29,SNK-CHC,Baked Good,post_strategy_2,21,42.0
+2024-04-29,SNK-LMB,Baked Good,post_strategy_2,18,40.5
+2024-04-29,SNK-SUG,Baked Good,post_strategy_2,10,20.0
+2024-05-06,CHP-DRT,Chips,post_strategy_2,25,37.5
+2024-05-06,CHP-LAY,Chips,post_strategy_2,28,42.0
+2024-05-06,CHP-POP,Chips,post_strategy_2,9,11.25
+2024-05-06,CHP-TAK,Chips,post_strategy_2,13,22.75
+2024-05-06,CND-GBR,Candy & Gum,post_strategy_2,16,32.0
+2024-05-06,CND-GUM,Candy & Gum,post_strategy_2,17,25.5
+2024-05-06,CND-RBB,Candy & Gum,post_strategy_2,14,28.0
+2024-05-06,CND-SKT,Candy & Gum,post_strategy_2,7,12.25
+2024-05-06,CND-STB,Candy & Gum,post_strategy_2,8,14.0
+2024-05-06,DRK-CHI,Custom Drink,post_strategy_2,16,60.0
+2024-05-06,DRK-HOR,Custom Drink,post_strategy_2,26,117.0
+2024-05-06,DRK-MAT,Custom Drink,post_strategy_2,36,153.0
+2024-05-06,DRK-STR,Custom Drink,post_strategy_2,24,90.0
+2024-05-06,ENR-CEL,Energy Drink,post_strategy_2,21,68.25
+2024-05-06,ENR-MTN,Energy Drink,post_strategy_2,11,38.5
+2024-05-06,ENR-RBS,Energy Drink,post_strategy_2,18,72.0
+2024-05-06,ENR-RBU,Energy Drink,post_strategy_2,30,120.0
+2024-05-06,ITS-BLU,Italian Soda,post_strategy_2,29,101.5
+2024-05-06,ITS-COC,Italian Soda,post_strategy_2,15,52.5
+2024-05-06,ITS-PAS,Italian Soda,post_strategy_2,39,136.5
+2024-05-06,ITS-PEA,Italian Soda,post_strategy_2,31,108.5
+2024-05-06,ITS-STR,Italian Soda,post_strategy_2,59,206.5
+2024-05-06,SFT-COK,Soft Drink,post_strategy_2,32,56.0
+2024-05-06,SFT-DRP,Soft Drink,post_strategy_2,17,29.75
+2024-05-06,SFT-LEM,Soft Drink,post_strategy_2,14,24.5
+2024-05-06,SFT-SPR,Soft Drink,post_strategy_2,17,29.75
+2024-05-06,SFT-WAT,Soft Drink,post_strategy_2,41,51.25
+2024-05-06,SNK-BRW,Baked Good,post_strategy_2,15,37.5
+2024-05-06,SNK-CHC,Baked Good,post_strategy_2,28,56.0
+2024-05-06,SNK-LMB,Baked Good,post_strategy_2,17,38.25
+2024-05-06,SNK-SUG,Baked Good,post_strategy_2,12,24.0
+2024-05-13,CHP-DRT,Chips,post_strategy_2,22,33.0
+2024-05-13,CHP-LAY,Chips,post_strategy_2,29,43.5
+2024-05-13,CHP-POP,Chips,post_strategy_2,15,18.75
+2024-05-13,CHP-TAK,Chips,post_strategy_2,32,56.0
+2024-05-13,CND-GBR,Candy & Gum,post_strategy_2,25,50.0
+2024-05-13,CND-GUM,Candy & Gum,post_strategy_2,19,28.5
+2024-05-13,CND-RBB,Candy & Gum,post_strategy_2,13,26.0
+2024-05-13,CND-SKT,Candy & Gum,post_strategy_2,8,14.0
+2024-05-13,CND-STB,Candy & Gum,post_strategy_2,12,21.0
+2024-05-13,DRK-CHI,Custom Drink,post_strategy_2,17,63.75
+2024-05-13,DRK-HOR,Custom Drink,post_strategy_2,23,103.5
+2024-05-13,DRK-MAT,Custom Drink,post_strategy_2,46,195.5
+2024-05-13,DRK-STR,Custom Drink,post_strategy_2,18,67.5
+2024-05-13,ENR-CEL,Energy Drink,post_strategy_2,29,94.25
+2024-05-13,ENR-MTN,Energy Drink,post_strategy_2,17,59.5
+2024-05-13,ENR-RBS,Energy Drink,post_strategy_2,15,60.0
+2024-05-13,ENR-RBU,Energy Drink,post_strategy_2,24,96.0
+2024-05-13,ITS-BLU,Italian Soda,post_strategy_2,32,112.0
+2024-05-13,ITS-COC,Italian Soda,post_strategy_2,12,42.0
+2024-05-13,ITS-PAS,Italian Soda,post_strategy_2,47,164.5
+2024-05-13,ITS-PEA,Italian Soda,post_strategy_2,37,129.5
+2024-05-13,ITS-STR,Italian Soda,post_strategy_2,51,178.5
+2024-05-13,SFT-COK,Soft Drink,post_strategy_2,30,52.5
+2024-05-13,SFT-DRP,Soft Drink,post_strategy_2,13,22.75
+2024-05-13,SFT-LEM,Soft Drink,post_strategy_2,8,14.0
+2024-05-13,SFT-SPR,Soft Drink,post_strategy_2,22,38.5
+2024-05-13,SFT-WAT,Soft Drink,post_strategy_2,54,67.5
+2024-05-13,SNK-BRW,Baked Good,post_strategy_2,10,25.0
+2024-05-13,SNK-CHC,Baked Good,post_strategy_2,25,50.0
+2024-05-13,SNK-LMB,Baked Good,post_strategy_2,14,31.5
+2024-05-13,SNK-SUG,Baked Good,post_strategy_2,14,28.0
+2024-05-20,CHP-DRT,Chips,post_strategy_2,20,30.0
+2024-05-20,CHP-LAY,Chips,post_strategy_2,24,36.0
+2024-05-20,CHP-POP,Chips,post_strategy_2,8,10.0
+2024-05-20,CHP-TAK,Chips,post_strategy_2,37,64.75
+2024-05-20,CND-GBR,Candy & Gum,post_strategy_2,25,50.0
+2024-05-20,CND-GUM,Candy & Gum,post_strategy_2,22,33.0
+2024-05-20,CND-RBB,Candy & Gum,post_strategy_2,22,44.0
+2024-05-20,CND-SKT,Candy & Gum,post_strategy_2,12,21.0
+2024-05-20,CND-STB,Candy & Gum,post_strategy_2,7,12.25
+2024-05-20,DRK-CHI,Custom Drink,post_strategy_2,19,71.25
+2024-05-20,DRK-HOR,Custom Drink,post_strategy_2,25,112.5
+2024-05-20,DRK-MAT,Custom Drink,post_strategy_2,56,238.0
+2024-05-20,DRK-STR,Custom Drink,post_strategy_2,35,131.25
+2024-05-20,ENR-CEL,Energy Drink,post_strategy_2,14,45.5
+2024-05-20,ENR-MTN,Energy Drink,post_strategy_2,10,35.0
+2024-05-20,ENR-RBS,Energy Drink,post_strategy_2,21,84.0
+2024-05-20,ENR-RBU,Energy Drink,post_strategy_2,30,120.0
+2024-05-20,ITS-BLU,Italian Soda,post_strategy_2,28,98.0
+2024-05-20,ITS-COC,Italian Soda,post_strategy_2,15,52.5
+2024-05-20,ITS-PAS,Italian Soda,post_strategy_2,44,154.0
+2024-05-20,ITS-PEA,Italian Soda,post_strategy_2,38,133.0
+2024-05-20,ITS-STR,Italian Soda,post_strategy_2,62,217.0
+2024-05-20,SFT-COK,Soft Drink,post_strategy_2,34,59.5
+2024-05-20,SFT-DRP,Soft Drink,post_strategy_2,18,31.5
+2024-05-20,SFT-LEM,Soft Drink,post_strategy_2,17,29.75
+2024-05-20,SFT-SPR,Soft Drink,post_strategy_2,25,43.75
+2024-05-20,SFT-WAT,Soft Drink,post_strategy_2,48,60.0
+2024-05-20,SNK-BRW,Baked Good,post_strategy_2,21,52.5
+2024-05-20,SNK-CHC,Baked Good,post_strategy_2,14,28.0
+2024-05-20,SNK-LMB,Baked Good,post_strategy_2,24,54.0
+2024-05-20,SNK-SUG,Baked Good,post_strategy_2,9,18.0
+2024-05-27,CHP-DRT,Chips,post_strategy_2,19,28.5
+2024-05-27,CHP-LAY,Chips,post_strategy_2,20,30.0
+2024-05-27,CHP-POP,Chips,post_strategy_2,6,7.5
+2024-05-27,CHP-TAK,Chips,post_strategy_2,22,38.5
+2024-05-27,CND-GBR,Candy & Gum,post_strategy_2,17,34.0
+2024-05-27,CND-GUM,Candy & Gum,post_strategy_2,5,7.5
+2024-05-27,CND-RBB,Candy & Gum,post_strategy_2,13,26.0
+2024-05-27,CND-SKT,Candy & Gum,post_strategy_2,6,10.5
+2024-05-27,CND-STB,Candy & Gum,post_strategy_2,10,17.5
+2024-05-27,DRK-CHI,Custom Drink,post_strategy_2,11,41.25
+2024-05-27,DRK-HOR,Custom Drink,post_strategy_2,22,99.0
+2024-05-27,DRK-MAT,Custom Drink,post_strategy_2,34,144.5
+2024-05-27,DRK-STR,Custom Drink,post_strategy_2,16,60.0
+2024-05-27,ENR-CEL,Energy Drink,post_strategy_2,11,35.75
+2024-05-27,ENR-MTN,Energy Drink,post_strategy_2,7,24.5
+2024-05-27,ENR-RBS,Energy Drink,post_strategy_2,16,64.0
+2024-05-27,ENR-RBU,Energy Drink,post_strategy_2,19,76.0
+2024-05-27,ITS-BLU,Italian Soda,post_strategy_2,15,52.5
+2024-05-27,ITS-COC,Italian Soda,post_strategy_2,14,49.0
+2024-05-27,ITS-PAS,Italian Soda,post_strategy_2,39,136.5
+2024-05-27,ITS-PEA,Italian Soda,post_strategy_2,20,70.0
+2024-05-27,ITS-STR,Italian Soda,post_strategy_2,50,175.0
+2024-05-27,SFT-COK,Soft Drink,post_strategy_2,25,43.75
+2024-05-27,SFT-DRP,Soft Drink,post_strategy_2,15,26.25
+2024-05-27,SFT-LEM,Soft Drink,post_strategy_2,7,12.25
+2024-05-27,SFT-SPR,Soft Drink,post_strategy_2,18,31.5
+2024-05-27,SFT-WAT,Soft Drink,post_strategy_2,34,42.5
+2024-05-27,SNK-BRW,Baked Good,post_strategy_2,12,30.0
+2024-05-27,SNK-CHC,Baked Good,post_strategy_2,16,32.0
+2024-05-27,SNK-LMB,Baked Good,post_strategy_2,10,22.5
+2024-05-27,SNK-SUG,Baked Good,post_strategy_2,5,10.0
+2024-06-03,CHP-DRT,Chips,post_strategy_2,35,52.5
+2024-06-03,CHP-LAY,Chips,post_strategy_2,25,37.5
+2024-06-03,CHP-POP,Chips,post_strategy_2,13,16.25
+2024-06-03,CHP-TAK,Chips,post_strategy_2,36,63.0
+2024-06-03,CND-GBR,Candy & Gum,post_strategy_2,15,30.0
+2024-06-03,CND-GUM,Candy & Gum,post_strategy_2,18,27.0
+2024-06-03,CND-RBB,Candy & Gum,post_strategy_2,17,34.0
+2024-06-03,CND-SKT,Candy & Gum,post_strategy_2,9,15.75
+2024-06-03,CND-STB,Candy & Gum,post_strategy_2,13,22.75
+2024-06-03,DRK-CHI,Custom Drink,post_strategy_2,7,26.25
+2024-06-03,DRK-HOR,Custom Drink,post_strategy_2,33,148.5
+2024-06-03,DRK-MAT,Custom Drink,post_strategy_2,35,148.75
+2024-06-03,DRK-STR,Custom Drink,post_strategy_2,27,101.25
+2024-06-03,ENR-CEL,Energy Drink,post_strategy_2,15,48.75
+2024-06-03,ENR-MTN,Energy Drink,post_strategy_2,14,49.0
+2024-06-03,ENR-RBS,Energy Drink,post_strategy_2,21,84.0
+2024-06-03,ENR-RBU,Energy Drink,post_strategy_2,22,88.0
+2024-06-03,ITS-BLU,Italian Soda,post_strategy_2,32,112.0
+2024-06-03,ITS-COC,Italian Soda,post_strategy_2,10,35.0
+2024-06-03,ITS-PAS,Italian Soda,post_strategy_2,45,157.5
+2024-06-03,ITS-PEA,Italian Soda,post_strategy_2,32,112.0
+2024-06-03,ITS-STR,Italian Soda,post_strategy_2,47,164.5
+2024-06-03,SFT-COK,Soft Drink,post_strategy_2,30,52.5
+2024-06-03,SFT-DRP,Soft Drink,post_strategy_2,19,33.25
+2024-06-03,SFT-LEM,Soft Drink,post_strategy_2,12,21.0
+2024-06-03,SFT-SPR,Soft Drink,post_strategy_2,25,43.75
+2024-06-03,SFT-WAT,Soft Drink,post_strategy_2,55,68.75
+2024-06-03,SNK-BRW,Baked Good,post_strategy_2,16,40.0
+2024-06-03,SNK-CHC,Baked Good,post_strategy_2,33,66.0
+2024-06-03,SNK-LMB,Baked Good,post_strategy_2,9,20.25
+2024-06-03,SNK-SUG,Baked Good,post_strategy_2,13,26.0
+2024-06-10,CHP-DRT,Chips,post_strategy_2,22,33.0
+2024-06-10,CHP-LAY,Chips,post_strategy_2,31,46.5
+2024-06-10,CHP-POP,Chips,post_strategy_2,13,16.25
+2024-06-10,CHP-TAK,Chips,post_strategy_2,16,28.0
+2024-06-10,CND-GBR,Candy & Gum,post_strategy_2,24,48.0
+2024-06-10,CND-GUM,Candy & Gum,post_strategy_2,21,31.5
+2024-06-10,CND-RBB,Candy & Gum,post_strategy_2,19,38.0
+2024-06-10,CND-SKT,Candy & Gum,post_strategy_2,15,26.25
+2024-06-10,CND-STB,Candy & Gum,post_strategy_2,9,15.75
+2024-06-10,DRK-CHI,Custom Drink,post_strategy_2,13,48.75
+2024-06-10,DRK-HOR,Custom Drink,post_strategy_2,18,81.0
+2024-06-10,DRK-MAT,Custom Drink,post_strategy_2,40,170.0
+2024-06-10,DRK-STR,Custom Drink,post_strategy_2,31,116.25
+2024-06-10,ENR-CEL,Energy Drink,post_strategy_2,17,55.25
+2024-06-10,ENR-MTN,Energy Drink,post_strategy_2,19,66.5
+2024-06-10,ENR-RBS,Energy Drink,post_strategy_2,14,56.0
+2024-06-10,ENR-RBU,Energy Drink,post_strategy_2,19,76.0
+2024-06-10,ITS-BLU,Italian Soda,post_strategy_2,23,80.5
+2024-06-10,ITS-COC,Italian Soda,post_strategy_2,9,31.5
+2024-06-10,ITS-PAS,Italian Soda,post_strategy_2,42,147.0
+2024-06-10,ITS-PEA,Italian Soda,post_strategy_2,40,140.0
+2024-06-10,ITS-STR,Italian Soda,post_strategy_2,52,182.0
+2024-06-10,SFT-COK,Soft Drink,post_strategy_2,23,40.25
+2024-06-10,SFT-DRP,Soft Drink,post_strategy_2,17,29.75
+2024-06-10,SFT-LEM,Soft Drink,post_strategy_2,18,31.5
+2024-06-10,SFT-SPR,Soft Drink,post_strategy_2,20,35.0
+2024-06-10,SFT-WAT,Soft Drink,post_strategy_2,55,68.75
+2024-06-10,SNK-BRW,Baked Good,post_strategy_2,12,30.0
+2024-06-10,SNK-CHC,Baked Good,post_strategy_2,38,76.0
+2024-06-10,SNK-LMB,Baked Good,post_strategy_2,24,54.0
+2024-06-10,SNK-SUG,Baked Good,post_strategy_2,10,20.0
